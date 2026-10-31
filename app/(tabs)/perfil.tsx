@@ -299,7 +299,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '600',
   },
-  errorText: {
+  errorTextAlt: {
     fontSize: 18,
     textAlign: 'center',
     color: '#7f8c8d',

@@ -1027,7 +1027,7 @@ const styles = StyleSheet.create({
     color: 'white',
     fontWeight: '600',
   },
-  juegoTitulo: {
+  quizHeaderTitulo: {
     fontSize: 20,
     fontWeight: 'bold',
     color: 'white',
