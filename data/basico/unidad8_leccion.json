@@ -1,0 +1,82 @@
+{
+  "titulo": "Números 6-10",
+  "descripcion": "Completarás tu conocimiento de números básicos del seis al diez.",
+  "secciones": [
+    {
+      "titulo": "Continuando con seis y siete",
+      "contenido": "Ahora aprenderemos los siguientes números:",
+      "palabras": [
+        {
+          "nahuatl": "chicuace",
+          "espanol": "seis",
+          "ejemplo": "Chicuace amatl (Seis hojas)"
+        },
+        {
+          "nahuatl": "chicome",
+          "espanol": "siete",
+          "ejemplo": "Chicome tlahkwiloli (Siete lápices)"
+        }
+      ]
+    },
+    {
+      "titulo": "Llegando a diez",
+      "contenido": "Terminemos con los últimos números:",
+      "palabras": [
+        {
+          "nahuatl": "chicuei",
+          "espanol": "ocho",
+          "ejemplo": "Chicuei amatltilahwak (Ocho carpetas)"
+        },
+        {
+          "nahuatl": "chicnahui",
+          "espanol": "nueve",
+          "ejemplo": "Chicnahui amatl (Nueve hojas)"
+        },
+        {
+          "nahuatl": "matlactli",
+          "espanol": "diez",
+          "ejemplo": "Matlactli tlahkwiloli (Diez lápices)"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando del 1 al 10",
+      "contenido": "¡Ahora puedes contar completo!",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce, ome, eyi, nahui, macuilli",
+          "espanol": "Uno, dos, tres, cuatro, cinco"
+        },
+        {
+          "nahuatl": "Chicuace, chicome, chicuei, chicnahui, matlactli",
+          "espanol": "Seis, siete, ocho, nueve, diez"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "¡Felicidades! Ya sabes todos los números básicos:\n\n• chicuace = 6\n• chicome = 7\n• chicuei = 8\n• chicnahui = 9\n• matlactli = 10\n\n¡Ahora puedes contar hasta diez en náhuatl!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Números 6-10",
+    "instrucciones": "¿Cuál es cada número?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'diez' en náhuatl?",
+        "opciones": ["Chicnahui", "Matlactli", "Chicuei"],
+        "respuestaCorrecta": "Matlactli"
+      },
+      {
+        "pregunta": "¿Qué número es 'chicuace'?",
+        "opciones": ["Seis", "Siete", "Ocho"],
+        "respuestaCorrecta": "Seis"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'nueve'?",
+        "opciones": ["Chicuei", "Chicnahui", "Chicome"],
+        "respuestaCorrecta": "Chicnahui"
+      }
+    ]
+  }
+}

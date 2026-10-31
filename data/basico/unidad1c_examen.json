@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Buenas Tardes",
+  "descripcion": "Demuestra que dominas todos los saludos",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'buenas tardes' en náhuatl?",
+      "opciones": ["Tiotlakilti", "Tonalti", "Nolti", "Tlasohkamati"],
+      "respuestaCorrecta": "Tiotlakilti",
+      "explicacion": "'Tiotlakilti' es el saludo especial para cuando el sol ya pasó su punto más alto del día."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "Son las 3 de la tarde. ¿Qué saludo es más apropiado?",
+      "opciones": ["Tiotlakilti", "Tonalti", "Solo nolti", "Cualquiera"],
+      "respuestaCorrecta": "Tiotlakilti",
+      "explicacion": "En la tarde, desde el mediodía hasta que oscurece, 'tiotlakilti' es el saludo más educado."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál de estos saludos puedes usar a cualquier hora del día?",
+      "opciones": ["Nolti", "Tonalti", "Tiotlakilti", "Ninguno"],
+      "respuestaCorrecta": "Nolti",
+      "explicacion": "'Nolti' es como un comodín: siempre funciona, sin importar la hora del día."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 15,
+    "insignia": "Maestro de Saludos",
+    "mensaje": "¡Excelente! Ya dominas todos los saludos básicos. 🌇"
+  }
+}

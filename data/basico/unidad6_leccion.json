@@ -1,0 +1,85 @@
+{
+  "titulo": "Yo, Tú, Él/Ella",
+  "descripcion": "Aprenderás a decir quién hace cada acción.",
+  "secciones": [
+    {
+      "titulo": "Hablando de mí mismo",
+      "contenido": "Para decir que YO hago algo, usamos 'neh' y agregamos 'ni-' al verbo:",
+      "palabras": [
+        {
+          "nahuatl": "neh",
+          "espanol": "yo",
+          "ejemplo": "Neh nitlahkwiloa (Yo escribo)"
+        }
+      ]
+    },
+    {
+      "titulo": "Hablando de ti",
+      "contenido": "Para decir que TÚ haces algo, usamos 'teh' y agregamos 'ti-' al verbo:",
+      "palabras": [
+        {
+          "nahuatl": "teh",
+          "espanol": "tú",
+          "ejemplo": "Teh titlahkwiloa (Tú escribes)"
+        }
+      ]
+    },
+    {
+      "titulo": "Hablando de otra persona",
+      "contenido": "Para decir que ÉL o ELLA hace algo, usamos 'yehwa' y el verbo sin cambios:",
+      "palabras": [
+        {
+          "nahuatl": "yehwa",
+          "espanol": "él/ella",
+          "ejemplo": "Yehwa tlahkwiloa (Él/ella escribe)"
+        }
+      ]
+    },
+    {
+      "titulo": "Mi primer diálogo con verbos",
+      "contenido": "Practiquemos usando los pronombres:",
+      "dialogo": [
+        {
+          "persona": "Ana",
+          "texto": "Neh nitlahkwiloa",
+          "traduccion": "Yo escribo"
+        },
+        {
+          "persona": "Pedro",
+          "texto": "Teh titlahkwiloa?",
+          "traduccion": "¿Tú escribes?"
+        },
+        {
+          "persona": "Ana",
+          "texto": "Kema, yehwa tlahkwiloa",
+          "traduccion": "Sí, él/ella escribe"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "Ahora sabes hablar de quién hace las acciones:\n\n• neh = yo (con ni-)\n• teh = tú (con ti-)\n• yehwa = él/ella (sin cambio)\n\nEjemplos:\n• Neh nitlacua = Yo como\n• Teh titlacua = Tú comes\n• Yehwa tlacua = Él/ella come"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Pronombres",
+    "instrucciones": "¿Quién hace la acción?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Qué significa 'neh nitlacua'?",
+        "opciones": ["Yo como", "Tú comes", "Él/ella come"],
+        "respuestaCorrecta": "Yo como"
+      },
+      {
+        "pregunta": "¿Cómo dices 'tú escribes'?",
+        "opciones": ["Neh nitlahkwiloa", "Teh titlahkwiloa", "Yehwa tlahkwiloa"],
+        "respuestaCorrecta": "Teh titlahkwiloa"
+      },
+      {
+        "pregunta": "¿Qué significa 'yehwa tekiti'?",
+        "opciones": ["Yo trabajo", "Tú trabajas", "Él/ella trabaja"],
+        "respuestaCorrecta": "Él/ella trabaja"
+      }
+    ]
+  }
+}

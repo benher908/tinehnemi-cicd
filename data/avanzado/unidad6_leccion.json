@@ -1,0 +1,55 @@
+{
+  "titulo": "Interpretación y análisis",
+  "descripcion": "Aprenderás a interpretar frases simbólicas y relatos en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Tlamantli tlen kualtsitsin nechmaka'?",
+      "opciones": ["Mis abuelos me pegaron", "Los ancestros me dieron cosas", "Estoy solo"],
+      "respuestaCorrecta": "Los ancestros me dieron cosas"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan yohui ika tepetl",
+      "audio": "zan_yohui_ika_tepetl.mp3",
+      "opciones": ["Va como por el cerro (camino difícil pero seguro)", "Va como por el río (camino fácil)", "Va como por el bosque (camino peligroso)"],
+      "respuestaCorrecta": "Va como por el cerro (camino difícil pero seguro)"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Interpreta: 'Amo kuali tlen moneki'",
+      "respuestaCorrecta": "No es bueno lo que se desea (crítica indirecta)"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Axkan tonatiuh ika kuali tlamachilistli, nechmaka nemilistli'?",
+      "opciones": ["Hoy el sol con buena enseñanza me da vida", "Hoy el sol con mala enseñanza me quita vida", "Hoy la luna con buena enseñanza me da vida"],
+      "respuestaCorrecta": "Hoy el sol con buena enseñanza me da vida"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlen kuali tlen nemilistli, kuali ka tlen tikmatika tlamantli tlen totatzin kualtsitsin",
+      "audio": "tlen_kuali_tlen_nemilistli.mp3",
+      "opciones": ["Lo bueno de la vida es saber lo que nuestros padres y abuelos nos enseñaron", "Lo malo de la vida es olvidar lo que nuestros padres y abuelos nos enseñaron", "Lo bueno de la vida es ignorar lo que nuestros padres y abuelos nos enseñaron"],
+      "respuestaCorrecta": "Lo bueno de la vida es saber lo que nuestros padres y abuelos nos enseñaron"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'Hoy el sol con buena enseñanza me da vida'",
+      "respuestaCorrecta": "axkan tonatiuh ika kuali tlamachilistli, nechmaka nemilistli"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Zan yohui ika tepetl'?",
+      "opciones": ["Va como por el cerro (camino difícil pero seguro)", "Va como por el río (camino fácil)", "Va como por el bosque (camino peligroso)"],
+      "respuestaCorrecta": "Va como por el cerro (camino difícil pero seguro)"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen moneki",
+      "audio": "amo_kuali_tlen_moneki.mp3",
+      "opciones": ["No es bueno lo que se desea (crítica indirecta)", "Es bueno lo que se desea", "No es malo lo que se desea"],
+      "respuestaCorrecta": "No es bueno lo que se desea (crítica indirecta)"
+    }
+  ]
+}

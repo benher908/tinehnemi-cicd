@@ -1,0 +1,55 @@
+{
+  "categoria": "Plantas de la Sierra",
+  "palabras": [
+    {
+      "nahuatl": "kuahuit",
+      "espanol": "arbol",
+      "audio": "cuahuitl.mp3"
+    },
+    {
+      "nahuatl": "kilitl",
+      "espanol": "quelite",
+      "audio": "quilitl.mp3"
+    },
+    {
+      "nahuatl": "chil-li",
+      "espanol": "chile",
+      "audio": "chilli.mp3"
+    },
+    {
+      "nahuatl": "ocotl",
+      "espanol": "pino/ocote",
+      "audio": "ocotl.mp3"
+    },
+    {
+      "nahuatl": "ahuacatl",
+      "espanol": "aguacate",
+      "audio": "ahuacatl.mp3"
+    },
+    {
+      "nahuatl": "elotl",
+      "espanol": "elote/mazorca tierna",
+      "audio": "elotl.mp3"
+    },
+    {
+      "nahuatl": "etl",
+      "espanol": "frijol",
+      "audio": "etl.mp3"
+    },
+    {
+      "nahuatl": "tomatl",
+      "espanol": "tomate",
+      "audio": "tomatl.mp3"
+    },
+    {
+      "nahuatl": "xihuitl",
+      "espanol": "hierba/planta medicinal",
+      "audio": "xihuitl.mp3"
+    },
+    {
+      "nahuatl": "zacatl",
+      "espanol": "zacate/pasto",
+      "audio": "zacatl.mp3"
+    }
+  ]
+}

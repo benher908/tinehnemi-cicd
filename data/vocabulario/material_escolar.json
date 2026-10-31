@@ -1,0 +1,80 @@
+{
+  "categoria": "Material Escolar",
+  "palabras": [
+    {
+      "nahuatl": "Xikwika tlen lápiz",
+      "espanol": "Toma el lápiz",
+      "audio": "Xikwika tlen lápiz.mp3"
+    },
+    {
+      "nahuatl": "Xikwika tlen āmatl",
+      "espanol": "Toma la hoja",
+      "audio": "Xikwika tlen āmatl.mp3"
+    },
+    {
+      "nahuatl": "Xijtlapo amattlilahwak",
+      "espanol": "Abre la carpeta",
+      "audio": "Xijtlapo amattlilahwak.mp3"
+    },
+    {
+      "nahuatl": "Xihtsahwa amattlilahwak",
+      "espanol": "Cierra la carpeta",
+      "audio": "Xihtsahwa amattlilahwak.mp3"
+    },
+    {
+      "nahuatl": "Kaninka tlen tlahkwiloli?",
+      "espanol": "¿Dónde está el borrador?",
+      "audio": "Kaninka tlen tlahkwiloli.mp3"
+    },
+    {
+      "nahuatl": "Tlen tekitl yeski…",
+      "espanol": "La tarea es…",
+      "audio": "Tlen tekitl yeski.mp3"
+    },
+    {
+      "nahuatl": "¿Welis nias ipan baño?",
+      "espanol": "¿Puedo ir al baño?",
+      "audio": "Welis nias ipan baño.mp3"
+    },
+    {
+      "nahuatl": "Xipanolti tlen tlamantli",
+      "espanol": "Pasa el material",
+      "audio": "Xipanolti tlen tlamantli.mp3"
+    },
+    {
+      "nahuatl": "Xinechpanolti tlen tlanawatihketl",
+      "espanol": "Pásame la regla",
+      "audio": "Xinechpanolti tlen tlanawatihketl.mp3"
+    },
+    {
+      "nahuatl": "Moneki se yok āmatl",
+      "espanol": "Necesito una hoja más",
+      "audio": "Moneki se yok āmatl.mp3"
+    },
+    {
+      "nahuatl": "tlen tekitl yeski...",
+      "espanol": "la tarea es...",
+      "audio": "tlen tekitl yeski.mp3"
+    },
+    {
+      "nahuatl": "welis nias ipan baño?",
+      "espanol": "¿puedo ir al baño?",
+      "audio": "welis_nias_ipan_bano.mp3"
+    },
+    {
+      "nahuatl": "xipanolti tlen tlamantli",
+      "espanol": "pasa el material",
+      "audio": "xipanolti_tlen_tlamantli.mp3"
+    },
+    {
+      "nahuatl": "xinechpanolti tlen tlanawatihketl",
+      "espanol": "pásame la regla",
+      "audio": "xinechpanolti_tlen_tlanawatihketl.mp3"
+    },
+    {
+      "nahuatl": "moneki okse amatl",
+      "espanol": "necesito una hoja más",
+      "audio": "moneki_okse_amatl.mp3"
+    }
+  ]
+}

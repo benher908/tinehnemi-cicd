@@ -1,0 +1,16 @@
+{
+  "categoria": "Colores",
+  "palabras": [
+    { "nahuatl": "Chichiltik",   "espanol": "Rojo",     "audio": "Chichiltik.mp3" },
+    { "nahuatl": "Kostik",        "espanol": "Amarillo", "audio": "Kostik.mp3" },
+    { "nahuatl": "Xoxowik",       "espanol": "Verde",    "audio": "Xoxowik.mp3" },
+    { "nahuatl": "Ilwikatik",     "espanol": "Azul",     "audio": "Ilwikatik.mp3" },
+    { "nahuatl": "Tlilliwik",     "espanol": "Negro",    "audio": "Tlilliwik.mp3" },
+    { "nahuatl": "Koyotik",       "espanol": "Café",     "audio": "Koyotik.mp3" },
+    { "nahuatl": "Kamohtik",      "espanol": "Morado",   "audio": "Kamohtik.mp3" },
+    { "nahuatl": "Pinextik",      "espanol": "Rosa",     "audio": "Pinextik.mp3" },
+    { "nahuatl": "Tenextik",      "espanol": "Gris",     "audio": "enextik.mp3" },
+    { "nahuatl": "Chichilkostik", "espanol": "Naranja",  "audio": "Chichilkostik.mp3" },
+    { "nahuatl": "Istak",         "espanol": "Blanco",   "audio": "Istak.mp3" }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Solo 'Papel'",
+  "descripcion": "Demuestra que conoces tu primer objeto del aula",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hoja' o 'papel' en náhuatl?",
+      "opciones": ["Amatl", "Tlahkwiloli", "Nolti", "Tlasohkamati"],
+      "respuestaCorrecta": "Amatl",
+      "explicacion": "'Amatl' significa hoja o papel, una palabra con miles de años de historia desde los códices aztecas."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué necesitas para escribir tus tareas?",
+      "opciones": ["Amatl", "Nolti", "Tonalti", "Tiotlakilti"],
+      "respuestaCorrecta": "Amatl",
+      "explicacion": "Para escribir necesitas 'amatl' (papel), el material básico de todo estudiante."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo pides una hoja educadamente?",
+      "opciones": ["Se tlapalewili, amatl", "Amatl, nolti", "Tlasohkamati, amatl", "Nolti, amatl"],
+      "respuestaCorrecta": "Se tlapalewili, amatl",
+      "explicacion": "Para pedir algo educadamente dices 'se tlapalewili' (por favor) seguido del objeto que necesitas."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 15,
+    "insignia": "Primer Objeto",
+    "mensaje": "¡Genial! Ya conoces tu primer objeto del aula. 📄"
+  }
+}

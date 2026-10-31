@@ -1,0 +1,35 @@
+{
+  "categoria": "Pronombres personales",
+  "palabras": [
+    {
+      "nahuatl": "nehuatl",
+      "espanol": "yo",
+      "audio": "nehuatl.mp3"
+    },
+    {
+      "nahuatl": "tehuatl",
+      "espanol": "tú",
+      "audio": "tehuatl.mp3"
+    },
+    {
+      "nahuatl": "yehua",
+      "espanol": "él / ella",
+      "audio": "yehua.mp3"
+    },
+    {
+      "nahuatl": "tlatehuan",
+      "espanol": "nosotros",
+      "audio": "tlatehuan.mp3"
+    },
+    {
+      "nahuatl": "amehuan",
+      "espanol": "ustedes",
+      "audio": "amehuan.mp3"
+    },
+    {
+      "nahuatl": "yehuan",
+      "espanol": "ellos / ellas",
+      "audio": "yehuan.mp3"
+    }
+  ]
+}

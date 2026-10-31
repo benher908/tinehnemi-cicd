@@ -1,0 +1,84 @@
+{
+  "titulo": "Mi Familia",
+  "descripcion": "Aprenderás a nombrar a los miembros de tu familia en náhuatl.",
+  "secciones": [
+    {
+      "titulo": "Los más cercanos",
+      "contenido": "Empezaremos con las personas más importantes de tu familia:",
+      "palabras": [
+        {
+          "nahuatl": "nantli",
+          "espanol": "mamá",
+          "ejemplo": "Nantli tlacua (Mamá come)"
+        },
+        {
+          "nahuatl": "tahtli",
+          "espanol": "papá",
+          "ejemplo": "Tahtli tekiti (Papá trabaja)"
+        }
+      ]
+    },
+    {
+      "titulo": "Hermanos y hermanas",
+      "contenido": "Ahora aprenderemos sobre los hermanos:",
+      "palabras": [
+        {
+          "nahuatl": "ichpoch",
+          "espanol": "hermana/niña",
+          "ejemplo": "Ichpoch tlamachti (La hermana estudia)"
+        },
+        {
+          "nahuatl": "telpochtli",
+          "espanol": "hermano/niño",
+          "ejemplo": "Telpochtli tlahkwiloa (El hermano escribe)"
+        }
+      ]
+    },
+    {
+      "titulo": "Hablando de mi familia",
+      "contenido": "Practiquemos hablando de nuestras familias:",
+      "dialogo": [
+        {
+          "persona": "Ana",
+          "texto": "Nantli tlacua",
+          "traduccion": "Mamá come"
+        },
+        {
+          "persona": "Pedro",
+          "texto": "Tahtli tekiti",
+          "traduccion": "Papá trabaja"
+        },
+        {
+          "persona": "Ana",
+          "texto": "Ichpoch tlamachti",
+          "traduccion": "La hermana estudia"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "¡Ahora puedes hablar de tu familia!\n\n• nantli = mamá\n• tahtli = papá\n• ichpoch = hermana/niña\n• telpochtli = hermano/niño\n\n¡Ya puedes presentar a tu familia en náhuatl!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Familia",
+    "instrucciones": "¿Quién es cada persona?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'mamá' en náhuatl?",
+        "opciones": ["Nantli", "Tahtli", "Ichpoch"],
+        "respuestaCorrecta": "Nantli"
+      },
+      {
+        "pregunta": "¿Qué significa 'telpochtli'?",
+        "opciones": ["Hermana", "Hermano/niño", "Papá"],
+        "respuestaCorrecta": "Hermano/niño"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'hermana'?",
+        "opciones": ["Nantli", "Ichpoch", "Tahtli"],
+        "respuestaCorrecta": "Ichpoch"
+      }
+    ]
+  }
+}

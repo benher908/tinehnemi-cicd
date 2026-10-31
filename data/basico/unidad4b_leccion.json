@@ -1,0 +1,66 @@
+{
+  "titulo": "Solo 'Dos'",
+  "descripcion": "Aprende el número dos y cuenta hasta dos objetos.",
+  "secciones": [
+    {
+      "titulo": "El siguiente número",
+      "contenido": "Después del uno viene el dos:",
+      "palabras": [
+        {
+          "nahuatl": "ome",
+          "espanol": "dos",
+          "ejemplo": "Ome (Dos)"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando objetos",
+      "contenido": "Ahora puedes contar hasta dos:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce amatl",
+          "espanol": "Una hoja"
+        },
+        {
+          "nahuatl": "Ome amatl",
+          "espanol": "Dos hojas"
+        }
+      ]
+    },
+    {
+      "titulo": "Tu primera cuenta",
+      "contenido": "Practica contando objetos en tu escritorio:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce tlahkwiloli",
+          "espanol": "Un lápiz"
+        },
+        {
+          "nahuatl": "Ome tlahkwiloli",
+          "espanol": "Dos lápices"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Dos",
+    "instrucciones": "Aprende a contar hasta dos:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'dos' en náhuatl?",
+        "opciones": ["Ome", "Ce", "Amatl"],
+        "respuestaCorrecta": "Ome"
+      },
+      {
+        "pregunta": "¿Cómo dices 'dos hojas'?",
+        "opciones": ["Ome amatl", "Ce amatl", "Amatl ome"],
+        "respuestaCorrecta": "Ome amatl"
+      },
+      {
+        "pregunta": "¿Cuál es mayor: ce o ome?",
+        "opciones": ["Ome", "Ce", "Son iguales"],
+        "respuestaCorrecta": "Ome"
+      }
+    ]
+  }
+}

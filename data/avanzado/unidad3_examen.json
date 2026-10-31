@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kualtsitsin'?",
+      "opciones": ["Niños pequeños", "Ancestros respetados", "Personas comunes"],
+      "respuestaCorrecta": "Ancestros respetados"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'enseñanza'",
+      "respuestaCorrecta": "tlamachilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlayohua",
+      "audio": "tlayohua.mp3",
+      "opciones": ["Día espiritual", "Noche espiritual", "Camino espiritual"],
+      "respuestaCorrecta": "Noche espiritual"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlamantli tlen kualtsitsin nechmaka'?",
+      "opciones": ["Cosas que los ancestros me dieron", "Cosas que yo di a los ancestros", "Cosas que los niños me dieron"],
+      "respuestaCorrecta": "Cosas que los ancestros me dieron"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'buen día al maestro'",
+      "respuestaCorrecta": "cualli tonali tlen tlamachihketl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehnemi in tlamachilistli ipan tonalamatl",
+      "audio": "nehnemi_in_tlamachilistli.mp3",
+      "opciones": ["Vive la enseñanza dentro del calendario del día", "Vive la enseñanza fuera del calendario", "Vive sin enseñanza"],
+      "respuestaCorrecta": "Vive la enseñanza dentro del calendario del día"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlayohualmej'?",
+      "opciones": ["Seres del día", "Seres de la noche / espíritus", "Seres del agua"],
+      "respuestaCorrecta": "Seres de la noche / espíritus"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'ancestros respetados'",
+      "respuestaCorrecta": "kualtsitsin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlamantli tlen kualtsitsin nechmaka",
+      "audio": "tlamantli_tlen_kualtsitsin.mp3",
+      "opciones": ["Cosas que los ancestros me dieron", "Cosas que yo di a los ancestros", "Cosas que los niños me dieron"],
+      "respuestaCorrecta": "Cosas que los ancestros me dieron"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'cualli tonali tlen tlamachihketl'?",
+      "opciones": ["Buen día al maestro", "Buen día al niño", "Buen día al anciano"],
+      "respuestaCorrecta": "Buen día al maestro"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'seres de la noche / espíritus'",
+      "respuestaCorrecta": "tlayohualmej"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlamachilistli",
+      "audio": "tlamachilistli.mp3",
+      "opciones": ["Aprendizaje", "Enseñanza", "Estudio"],
+      "respuestaCorrecta": "Enseñanza"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehnemi in tlamachilistli ipan tonalamatl'?",
+      "opciones": ["Vive la enseñanza dentro del calendario del día", "Vive la enseñanza fuera del calendario", "Vive sin enseñanza"],
+      "respuestaCorrecta": "Vive la enseñanza dentro del calendario del día"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'noche espiritual'",
+      "respuestaCorrecta": "tlayohua"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kualtsitsin",
+      "audio": "kualtsitsin.mp3",
+      "opciones": ["Niños pequeños", "Ancestros respetados", "Personas comunes"],
+      "respuestaCorrecta": "Ancestros respetados"
+    }
+  ]
+}

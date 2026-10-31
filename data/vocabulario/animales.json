@@ -1,0 +1,30 @@
+{
+  "categoria": "Animales",
+  "palabras": [
+    {
+      "nahuatl": "tlalmoto",
+      "espanol": "ardilla",
+      "audio": "tlalmoto.mp3"
+    },
+    {
+      "nahuatl": "Miston",
+      "espanol": "Gato",
+      "audio": "miston.mp3"
+    },
+    {
+      "nahuatl": "Tochi",
+      "espanol": "Conejo",
+      "audio": "tochi.mp3"
+    },
+    {
+      "nahuatl": "michi",
+      "espanol": "pez",
+      "audio": "michi.mp3"
+    },
+    {
+      "nahuatl": "Kowatl",
+      "espanol": "Víbora",
+      "audio": "kowarl.mp3"
+    }
+  ]
+}

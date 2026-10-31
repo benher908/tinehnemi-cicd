@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka tlamachilistli, zan yohui ik tepetl'?",
+      "opciones": ["La enseñanza es mala, va como el camino del cerro", "La enseñanza es buena, va como el camino del cerro", "La enseñanza es difícil, va como el camino del cerro"],
+      "respuestaCorrecta": "La enseñanza es buena, va como el camino del cerro"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'solo eso es vida verdadera'",
+      "respuestaCorrecta": "zan kuali tlen nemilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen nechkuika nimitzmikilia",
+      "audio": "amo_kuali_tlen_nechkuika.mp3",
+      "opciones": ["Es bueno que me cantes para matarme", "No es bueno que me cantes para matarme", "Es bueno que me cantes para salvarme"],
+      "respuestaCorrecta": "No es bueno que me cantes para matarme"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehuatl nikneki tlen mopiaj tlamachilistli'?",
+      "opciones": ["Yo quiero que conserves la enseñanza", "Yo quiero que olvides la enseñanza", "Yo quiero que cambies la enseñanza"],
+      "respuestaCorrecta": "Yo quiero que conserves la enseñanza"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'no es bueno que me cantes para matarme'",
+      "respuestaCorrecta": "amo kuali tlen nechkuika nimitzmikilia"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kuali ka tlamachilistli, zan yohui ik tepetl",
+      "audio": "kuali_ka_tlamachilistli.mp3",
+      "opciones": ["La enseñanza es mala, va como el camino del cerro", "La enseñanza es buena, va como el camino del cerro", "La enseñanza es difícil, va como el camino del cerro"],
+      "respuestaCorrecta": "La enseñanza es buena, va como el camino del cerro"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué conector se usa en 'amo kuali tlen nechkuika nimitzmikilia'?",
+      "opciones": ["amo", "tlen", "ik"],
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo quiero que conserves la enseñanza'",
+      "respuestaCorrecta": "nehuatl nikneki tlen mopiaj tlamachilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan kuali tlen nemilistli",
+      "audio": "zan_kuali_tlen_nemilistli.mp3",
+      "opciones": ["Solo eso es vida verdadera", "Solo eso es vida falsa", "Solo eso es vida corta"],
+      "respuestaCorrecta": "Solo eso es vida verdadera"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'zan yohui ik tepetl'?",
+      "opciones": ["Va como el camino del cerro", "Va como el camino del río", "Va como el camino del bosque"],
+      "respuestaCorrecta": "Va como el camino del cerro"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Qué conector se usa para unir dos cláusulas en 'nikneki tlen mopiaj'?",
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikneki tlen mopiaj tlamachilistli",
+      "audio": "nikneki_tlen_mopiaj_tlamachilistli.mp3",
+      "opciones": ["Yo quiero que conserves la enseñanza", "Yo quiero que olvides la enseñanza", "Yo quiero que cambies la enseñanza"],
+      "respuestaCorrecta": "Yo quiero que conserves la enseñanza"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'zan kuali tlen nemilistli'?",
+      "opciones": ["Solo eso es vida verdadera", "Solo eso es vida falsa", "Solo eso es vida corta"],
+      "respuestaCorrecta": "Solo eso es vida verdadera"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'va como el camino del cerro'",
+      "respuestaCorrecta": "zan yohui ik tepetl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan yohui ik tepetl",
+      "audio": "zan_yohui_ik_tepetl.mp3",
+      "opciones": ["Va como el camino del cerro", "Va como el camino del río", "Va como el camino del bosque"],
+      "respuestaCorrecta": "Va como el camino del cerro"
+    }
+  ]
+}

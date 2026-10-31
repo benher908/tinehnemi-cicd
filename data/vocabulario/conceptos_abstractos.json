@@ -1,0 +1,40 @@
+{
+  "categoria": "Conceptos abstractos y culturales",
+  "palabras": [
+    {
+      "nahuatl": "Moechkapantlalis",
+      "espanol": "humildad",
+      "audio": "macehualistli.mp3"
+    },
+    {
+      "nahuatl": "nawatlahtolli",
+      "espanol": "lengua náhuatl",
+      "audio": "nawatlahtolli.mp3"
+    },
+    {
+      "nahuatl": "tlamachilistli",
+      "espanol": "enseñanza",
+      "audio": "tlamachilistli.mp3"
+    },
+    {
+      "nahuatl": "nehnemi",
+      "espanol": "vivir bien, andar con rectitud",
+      "audio": "nehnemi.mp3"
+    },
+    {
+      "nahuatl": "tlayohua",
+      "espanol": "noche espiritual",
+      "audio": "tlayohua.mp3"
+    },
+    {
+      "nahuatl": "tlayohualmej",
+      "espanol": "seres de la noche / espíritus",
+      "audio": "tlayohualmej.mp3"
+    },
+    {
+      "nahuatl": "tlakatl tlen nemilistli",
+      "espanol": "persona sabia / de camino recto",
+      "audio": "tlakatl_tlen_nemilistli.mp3"
+    }
+  ]
+}

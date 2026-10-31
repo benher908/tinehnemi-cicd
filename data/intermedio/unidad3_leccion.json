@@ -1,0 +1,54 @@
+{
+  "titulo": "Familia y relaciones",
+  "descripcion": "Aprenderás vocabulario sobre la familia y cómo expresar relaciones en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'totatzin'?",
+      "opciones": ["Madre", "Padre", "Hijo"],
+      "respuestaCorrecta": "Padre"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nantzin'?",
+      "opciones": ["Padre", "Madre", "Hijo"],
+      "respuestaCorrecta": "Madre"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'mi hijo/hija' en náhuatl?",
+      "opciones": ["nopiltzin", "totatzin", "nantzin"],
+      "respuestaCorrecta": "nopiltzin"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nonantli'?",
+      "opciones": ["Mi padre", "Mi madre (forma reverente)", "Mi hijo"],
+      "respuestaCorrecta": "Mi madre (forma reverente)"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'ika'?",
+      "opciones": ["Con", "Para", "De"],
+      "respuestaCorrecta": "Con"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'yo quiero estar con mi padre' en náhuatl?",
+      "opciones": ["nehuatl nikneki ika totatzin", "nehuatl nikneki ika nantzin", "nehuatl nikneki ika nopiltzin"],
+      "respuestaCorrecta": "nehuatl nikneki ika totatzin"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehuatl nikneki ika nopiltzin'?",
+      "opciones": ["Yo quiero a mi hijo", "Yo quiero estar con mi hijo", "Mi hijo me quiere"],
+      "respuestaCorrecta": "Yo quiero estar con mi hijo"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nopiltzin'?",
+      "opciones": ["Mi padre", "Mi madre", "Mi hijo/hija"],
+      "respuestaCorrecta": "Mi hijo/hija"
+    }
+  ]
+}

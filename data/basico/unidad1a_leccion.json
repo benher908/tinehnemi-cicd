@@ -1,0 +1,54 @@
+{
+  "titulo": "Solo 'Hola'",
+  "descripcion": "¡Bienvenido a tu primera aventura en náhuatl! Comenzaremos con la palabra más importante: el saludo que conecta corazones.",
+  "secciones": [
+    {
+      "titulo": "🌟 Una palabra mágica",
+      "contenido": "¿Sabías que con una sola palabra puedes hacer sonreír a alguien? En náhuatl, esa palabra es 'nolti'. Es como tener una llave dorada que abre cualquier conversación. Los antiguos nahuas de la Sierra Negra usaban esta misma palabra hace cientos de años, y ahora tú también la vas a usar. ¡Qué emocionante!",
+      "palabras": [
+        {
+          "nahuatl": "nolti",
+          "espanol": "hola",
+          "ejemplo": "Nolti (Se pronuncia: NOL-ti, como 'nol' de 'nobleza' + 'ti' de 'tía')"
+        }
+      ]
+    },
+    {
+      "titulo": "🕐 ¿Cuándo puedo usarla?",
+      "contenido": "'Nolti' es súper especial porque funciona como un comodín. ¿Es de mañana? ¡Nolti! ¿Es de tarde? ¡Nolti! ¿Es de noche? ¡También nolti! No importa si hablas con tu mamá, tu maestro, tu mejor amigo o alguien que acabas de conocer. Esta palabra siempre, siempre funciona. Es como tener un superpoder de amabilidad.",
+      "ejemplos": [
+        {
+          "nahuatl": "Nolti",
+          "espanol": "Hola (cuando llegas a la escuela por la mañana)"
+        },
+        {
+          "nahuatl": "Nolti", 
+          "espanol": "Hola (cuando ves a tu amigo en el recreo)"
+        },
+        {
+          "nahuatl": "Nolti",
+          "espanol": "Hola (cuando saludas a tu vecino en la tarde)"
+        }
+      ]
+    },
+    {
+      "titulo": "🎯 ¡Hora de practicar!",
+      "contenido": "Ahora viene la parte divertida. Vamos a hacer que 'nolti' se sienta como en casa en tu boca. Repite conmigo en voz alta: 'Nolti... Nolti... Nolti'. ¿Sientes cómo suena? ¡Perfecto! Ahora ya puedes decir que hablas náhuatl. Sí, ¡en serio! Con esta palabra ya eres parte de una tradición que tiene más de 500 años. ¡Qué increíble!"
+    },
+    {
+      "titulo": "💡 Dato curioso",
+      "contenido": "En la Sierra Negra de Puebla, donde viven muchos hablantes de náhuatl, 'nolti' es la primera palabra que aprenden los niños después de 'mamá' y 'papá'. ¡Ahora tú también formas parte de esta hermosa tradición!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Tu primer saludo",
+    "instrucciones": "¡Vamos a ver qué tan bien aprendiste! Esta pregunta es súper fácil:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'hola' en náhuatl?",
+        "opciones": ["Nolti", "Gracias", "Adiós", "Buenos días"],
+        "respuestaCorrecta": "Nolti"
+      }
+    ]
+  }
+}

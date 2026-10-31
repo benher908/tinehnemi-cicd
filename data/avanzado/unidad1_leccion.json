@@ -1,0 +1,55 @@
+{
+  "titulo": "Expresiones abstractas",
+  "descripcion": "Aprenderás conceptos abstractos y culturales en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nawatlahtolli'?",
+      "opciones": ["Lengua náhuatl", "Persona náhuatl", "Tierra náhuatl"],
+      "respuestaCorrecta": "Lengua náhuatl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "macehualistli",
+      "audio": "macehualistli.mp3",
+      "opciones": ["Sabiduría", "Humildad", "Fortaleza"],
+      "respuestaCorrecta": "Humildad"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'vivir bien, andar con rectitud'",
+      "respuestaCorrecta": "nehnemi"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlayohua'?",
+      "opciones": ["Día espiritual", "Noche espiritual", "Camino espiritual"],
+      "respuestaCorrecta": "Noche espiritual"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlayohualmej",
+      "audio": "tlayohualmej.mp3",
+      "opciones": ["Seres de la noche / espíritus", "Seres del día", "Seres del agua"],
+      "respuestaCorrecta": "Seres de la noche / espíritus"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'persona sabia / de camino recto'",
+      "respuestaCorrecta": "tlakatl tlen nemilistli"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué concepto representa 'nehnemi'?",
+      "opciones": ["Caminar físicamente", "Vivir bien, andar con rectitud", "Hablar correctamente"],
+      "respuestaCorrecta": "Vivir bien, andar con rectitud"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlamachilistli",
+      "audio": "tlamachilistli.mp3",
+      "opciones": ["Aprendizaje", "Enseñanza", "Estudio"],
+      "respuestaCorrecta": "Enseñanza"
+    }
+  ]
+}

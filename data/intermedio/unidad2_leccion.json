@@ -1,0 +1,55 @@
+{
+  "titulo": "Futuro y adverbios",
+  "descripcion": "Aprenderás a conjugar verbos en futuro y usar adverbios en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaz'?",
+      "opciones": ["Yo veo", "Yo vi", "Yo veré"],
+      "respuestaCorrecta": "Yo veré"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "axkan",
+      "audio": "axkan.mp3",
+      "opciones": ["Ahora", "Todavía", "Sólo"],
+      "respuestaCorrecta": "Ahora"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'todavía'",
+      "respuestaCorrecta": "axka"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'zan'?",
+      "opciones": ["Ahora", "Todavía", "Sólo"],
+      "respuestaCorrecta": "Sólo"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "niknekiz",
+      "audio": "niknekiz.mp3",
+      "opciones": ["Yo quiero", "Yo quise", "Yo querré"],
+      "respuestaCorrecta": "Yo querré"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo daré'",
+      "respuestaCorrecta": "nimakaz"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'axkan yokitta tlen michin'?",
+      "opciones": ["Ahora él ve el pez", "Todavía él ve el pez", "Sólo él ve el pez"],
+      "respuestaCorrecta": "Ahora él ve el pez"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan kuali",
+      "audio": "zan_kuali.mp3",
+      "opciones": ["Muy bien", "Sólo bien", "Ahora bien"],
+      "respuestaCorrecta": "Sólo bien"
+    }
+  ]
+}

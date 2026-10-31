@@ -1,0 +1,55 @@
+{
+  "titulo": "Comida",
+  "descripcion": "Aprenderás vocabulario relacionado con la comida en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlaxkal'?",
+      "opciones": ["Pan", "Tortilla", "Fruta"],
+      "respuestaCorrecta": "Tortilla"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlaolli",
+      "audio": "tlaolli.mp3",
+      "opciones": ["Frijol", "Maíz", "Chile"],
+      "respuestaCorrecta": "Maíz"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'comer'",
+      "respuestaCorrecta": "tlami"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nechmaka'?",
+      "opciones": ["Te doy", "Me dio", "Le damos"],
+      "respuestaCorrecta": "Me dio"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlami",
+      "audio": "tlami.mp3",
+      "opciones": ["Beber", "Comer", "Cocinar"],
+      "respuestaCorrecta": "Comer"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'él/ella me dio maíz'",
+      "respuestaCorrecta": "yehua nechmaka tlaolli"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tikneki kuali tlaxkal'?",
+      "opciones": ["Yo quiero una buena tortilla", "Tú quieres una buena tortilla", "Él quiere una buena tortilla"],
+      "respuestaCorrecta": "Tú quieres una buena tortilla"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "yehua nechmaka tlaolli",
+      "audio": "yehua_nechmaka_tlaolli.mp3",
+      "opciones": ["Él me dio maíz", "Yo le di maíz", "Tú me das maíz"],
+      "respuestaCorrecta": "Él me dio maíz"
+    }
+  ]
+}

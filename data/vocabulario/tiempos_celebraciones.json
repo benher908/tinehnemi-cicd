@@ -1,0 +1,40 @@
+{
+  "categoria": "Tiempos y celebraciones",
+  "palabras": [
+    {
+      "nahuatl": "nemilistli",
+      "espanol": "vida, existencia",
+      "audio": "nemilistli.mp3"
+    },
+    {
+      "nahuatl": "tlamachilizpan",
+      "espanol": "en el acto de enseñar",
+      "audio": "tlamachilizpan.mp3"
+    },
+    {
+      "nahuatl": "kuali tonalamatl",
+      "espanol": "calendario bueno / día favorable",
+      "audio": "kuali_tonalamatl.mp3"
+    },
+    {
+      "nahuatl": "miktlan",
+      "espanol": "inframundo",
+      "audio": "miktlan.mp3"
+    },
+    {
+      "nahuatl": "tonalamatl",
+      "espanol": "calendario ritual",
+      "audio": "tonalamatl.mp3"
+    },
+    {
+      "nahuatl": "kualtsitsin",
+      "espanol": "ancestros respetados",
+      "audio": "kualtsitsin.mp3"
+    },
+    {
+      "nahuatl": "tetahmej",
+      "espanol": "ancestros",
+      "audio": "tetahmej.mp3"
+    }
+  ]
+}

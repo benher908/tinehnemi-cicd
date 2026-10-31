@@ -1,0 +1,76 @@
+{
+  "titulo": "Material Escolar Básico",
+  "descripcion": "Aprenderás los nombres de los objetos más comunes en el aula.",
+  "secciones": [
+    {
+      "titulo": "Lo más básico para escribir",
+      "contenido": "Empezaremos con lo que más usamos en la escuela:",
+      "palabras": [
+        {
+          "nahuatl": "amatl",
+          "espanol": "hoja/papel",
+          "ejemplo": "Amatl (Una hoja)"
+        },
+        {
+          "nahuatl": "tlahkwiloli",
+          "espanol": "lápiz/pluma",
+          "ejemplo": "Tlahkwiloli (Un lápiz)"
+        }
+      ]
+    },
+    {
+      "titulo": "Para organizar",
+      "contenido": "Estos objetos nos ayudan a mantener todo en orden:",
+      "palabras": [
+        {
+          "nahuatl": "amatltilahwak",
+          "espanol": "carpeta/folder",
+          "ejemplo": "Amatltilahwak (Una carpeta)"
+        }
+      ]
+    },
+    {
+      "titulo": "Mi primer inventario",
+      "contenido": "Practiquemos nombrando los objetos:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce amatl",
+          "espanol": "Una hoja"
+        },
+        {
+          "nahuatl": "Ce tlahkwiloli",
+          "espanol": "Un lápiz"
+        },
+        {
+          "nahuatl": "Ce amatltilahwak",
+          "espanol": "Una carpeta"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "Ya conoces los objetos básicos del aula:\n\n• amatl = hoja/papel\n• tlahkwiloli = lápiz/pluma\n• amatltilahwak = carpeta\n\n¡Ahora puedes nombrar lo que ves en tu escritorio!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Material Escolar",
+    "instrucciones": "¿Cómo se llama cada objeto?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'hoja' en náhuatl?",
+        "opciones": ["Amatl", "Tlahkwiloli", "Amatltilahwak"],
+        "respuestaCorrecta": "Amatl"
+      },
+      {
+        "pregunta": "¿Qué es 'tlahkwiloli'?",
+        "opciones": ["Hoja", "Lápiz", "Carpeta"],
+        "respuestaCorrecta": "Lápiz"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'carpeta'?",
+        "opciones": ["Amatl", "Amatltilahwak", "Tlahkwiloli"],
+        "respuestaCorrecta": "Amatltilahwak"
+      }
+    ]
+  }
+}

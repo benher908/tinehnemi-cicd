@@ -1,0 +1,50 @@
+{
+  "categoria": "Conectores y expresiones",
+  "palabras": [
+    {
+      "nahuatl": "timoittazke",
+      "espanol": "adiós/nos veremos",
+      "audio": "timoittazke.mp3"
+    },
+    {
+      "nahuatl": "zan",
+      "espanol": "sólo",
+      "audio": "zan.mp3"
+    },
+    {
+      "nahuatl": "moneki",
+      "espanol": "se necesita",
+      "audio": "moneki.mp3"
+    },
+    {
+      "nahuatl": "kuali",
+      "espanol": "bueno/bien",
+      "audio": "kuali.mp3"
+    },
+    {
+      "nahuatl": "axkan",
+      "espanol": "ahora",
+      "audio": "axkan.mp3"
+    },
+    {
+      "nahuatl": "amo",
+      "espanol": "no",
+      "audio": "amo.mp3"
+    },
+    {
+      "nahuatl": "axka",
+      "espanol": "todavía",
+      "audio": "axka.mp3"
+    },
+    {
+      "nahuatl": "nech",
+      "espanol": "a mí",
+      "audio": "nech.mp3"
+    },
+    {
+      "nahuatl": "tlen",
+      "espanol": "que/lo que/qué",
+      "audio": "tlen.mp3"
+    }
+  ]
+}

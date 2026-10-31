@@ -1,0 +1,86 @@
+{
+  "titulo": "Colores Básicos",
+  "descripcion": "Aprenderás los colores más importantes en náhuatl.",
+  "secciones": [
+    {
+      "titulo": "Los colores principales",
+      "contenido": "Empezaremos con los colores que más vemos:",
+      "palabras": [
+        {
+          "nahuatl": "iztac",
+          "espanol": "blanco",
+          "ejemplo": "Iztac amatl (Hoja blanca)"
+        },
+        {
+          "nahuatl": "tliltic",
+          "espanol": "negro",
+          "ejemplo": "Tliltic tlahkwiloli (Lápiz negro)"
+        },
+        {
+          "nahuatl": "chichiltic",
+          "espanol": "rojo",
+          "ejemplo": "Chichiltic tlahkwiloli (Lápiz rojo)"
+        }
+      ]
+    },
+    {
+      "titulo": "Más colores bonitos",
+      "contenido": "Continuemos con otros colores importantes:",
+      "palabras": [
+        {
+          "nahuatl": "xoxouhqui",
+          "espanol": "azul/verde",
+          "ejemplo": "Xoxouhqui amatltilahwak (Carpeta azul)"
+        },
+        {
+          "nahuatl": "coztic",
+          "espanol": "amarillo",
+          "ejemplo": "Coztic chīchītl (Flor amarilla)"
+        }
+      ]
+    },
+    {
+      "titulo": "Describiendo objetos",
+      "contenido": "Ahora podemos describir las cosas por su color:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce iztac amatl",
+          "espanol": "Una hoja blanca"
+        },
+        {
+          "nahuatl": "Ome chichiltic tlahkwiloli",
+          "espanol": "Dos lápices rojos"
+        },
+        {
+          "nahuatl": "Eyi xoxouhqui amatltilahwak",
+          "espanol": "Tres carpetas azules"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "¡Ahora conoces los colores básicos!\n\n• iztac = blanco\n• tliltic = negro\n• chichiltic = rojo\n• xoxouhqui = azul/verde\n• coztic = amarillo\n\n¡Ya puedes describir los colores de las cosas!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Colores",
+    "instrucciones": "¿De qué color es cada cosa?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'rojo' en náhuatl?",
+        "opciones": ["Chichiltic", "Iztac", "Coztic"],
+        "respuestaCorrecta": "Chichiltic"
+      },
+      {
+        "pregunta": "¿Qué color es 'xoxouhqui'?",
+        "opciones": ["Amarillo", "Azul/verde", "Negro"],
+        "respuestaCorrecta": "Azul/verde"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'blanco'?",
+        "opciones": ["Iztac", "Tliltic", "Coztic"],
+        "respuestaCorrecta": "Iztac"
+      }
+    ]
+  }
+}

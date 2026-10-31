@@ -1,0 +1,64 @@
+{
+  "titulo": "Por Favor",
+  "descripcion": "Aprende a pedir las cosas con educación.",
+  "secciones": [
+    {
+      "titulo": "Pidiendo con respeto",
+      "contenido": "Para pedir algo de manera educada, los hablantes de náhuatl usan:",
+      "palabras": [
+        {
+          "nahuatl": "se tlapalewili",
+          "espanol": "por favor",
+          "ejemplo": "Se tlapalewili (Por favor)"
+        }
+      ]
+    },
+    {
+      "titulo": "Usando 'por favor' correctamente",
+      "contenido": "Generalmente se usa al principio de una petición:",
+      "ejemplos": [
+        {
+          "nahuatl": "Se tlapalewili, amatl",
+          "espanol": "Por favor, una hoja"
+        }
+      ]
+    },
+    {
+      "titulo": "Combinando cortesía",
+      "contenido": "Ahora puedes ser muy educado combinando las dos palabras que conoces:",
+      "dialogo": [
+        {
+          "persona": "Tú",
+          "texto": "Se tlapalewili",
+          "traduccion": "Por favor"
+        },
+        {
+          "persona": "Amigo",
+          "texto": "(Te ayuda)",
+          "traduccion": "(Te ayuda)"
+        },
+        {
+          "persona": "Tú",
+          "texto": "Tlasohkamati",
+          "traduccion": "Gracias"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Por Favor",
+    "instrucciones": "Aprende a pedir con educación:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'por favor'?",
+        "opciones": ["Se tlapalewili", "Tlasohkamati", "Nolti"],
+        "respuestaCorrecta": "Se tlapalewili"
+      },
+      {
+        "pregunta": "¿Para qué usas 'se tlapalewili'?",
+        "opciones": ["Para pedir algo", "Para agradecer", "Para saludar"],
+        "respuestaCorrecta": "Para pedir algo"
+      }
+    ]
+  }
+}

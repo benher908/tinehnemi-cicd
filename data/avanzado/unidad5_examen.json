@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué función tiene 'tlen' en 'Nehuatl nikneki tlen nimitztlazohtla'?",
+      "opciones": ["Conector de cláusulas", "Artículo", "Adverbio"],
+      "respuestaCorrecta": "Conector de cláusulas"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'no es bueno que'",
+      "respuestaCorrecta": "amo kuali tlen"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "moneki tlen tlamachihuaz",
+      "audio": "moneki_tlen_tlamachihuaz.mp3",
+      "opciones": ["Se desea que se enseñe", "Se desea que se aprenda", "Se desea que se olvide"],
+      "respuestaCorrecta": "Se desea que se enseñe"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'moneki'?",
+      "opciones": ["Se necesita", "Se desea que", "Se prohíbe"],
+      "respuestaCorrecta": "Se desea que"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo quiero que te quiera'",
+      "respuestaCorrecta": "nehuatl nikneki tlen nimitztlazohtla"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen",
+      "audio": "amo_kuali_tlen.mp3",
+      "opciones": ["Es bueno que", "No es bueno que", "Es malo que"],
+      "respuestaCorrecta": "No es bueno que"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué tipo de construcción es 'Moneki tlen tlamachihuaz'?",
+      "opciones": ["Subordinada", "Coordinada", "Simple"],
+      "respuestaCorrecta": "Subordinada"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'se desea que se enseñe'",
+      "respuestaCorrecta": "moneki tlen tlamachihuaz"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikneki tlen nimitztlazohtla",
+      "audio": "nikneki_tlen_nimitztlazohtla.mp3",
+      "opciones": ["Yo quiero que te quiera", "Tú quieres que te quiera", "Él quiere que te quiera"],
+      "respuestaCorrecta": "Yo quiero que te quiera"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué conector se usa para unir cláusulas subordinadas en náhuatl?",
+      "opciones": ["zan", "tlen", "ika"],
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa: 'Amo kuali ___ nechkuika' (No es bueno que me cantes)",
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen nechkuika",
+      "audio": "amo_kuali_tlen_nechkuika.mp3",
+      "opciones": ["Es bueno que me cantes", "No es bueno que me cantes", "Es malo que me cantes"],
+      "respuestaCorrecta": "No es bueno que me cantes"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Nehuatl nikneki tlen nimitztlazohtla'?",
+      "opciones": ["Yo quiero que te quiera", "Tú quieres que te quiera", "Él quiere que te quiera"],
+      "respuestaCorrecta": "Yo quiero que te quiera"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'no es bueno que me cantes'",
+      "respuestaCorrecta": "amo kuali tlen nechkuika"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "moneki",
+      "audio": "moneki.mp3",
+      "opciones": ["Se necesita", "Se desea que", "Se prohíbe"],
+      "respuestaCorrecta": "Se desea que"
+    }
+  ]
+}

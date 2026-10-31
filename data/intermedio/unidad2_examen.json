@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaz'?",
+      "opciones": ["Yo veo", "Yo vi", "Yo veré"],
+      "respuestaCorrecta": "Yo veré"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo querré'",
+      "respuestaCorrecta": "niknekiz"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nimakaz",
+      "audio": "nimakaz.mp3",
+      "opciones": ["Yo doy", "Yo di", "Yo daré"],
+      "respuestaCorrecta": "Yo daré"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'axkan'?",
+      "opciones": ["Ahora", "Todavía", "Sólo"],
+      "respuestaCorrecta": "Ahora"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'todavía'",
+      "respuestaCorrecta": "axka"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan",
+      "audio": "zan.mp3",
+      "opciones": ["Ahora", "Todavía", "Sólo"],
+      "respuestaCorrecta": "Sólo"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali'?",
+      "opciones": ["Malo", "Bueno/bien", "Rápido"],
+      "respuestaCorrecta": "Bueno/bien"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'ahora él ve el pez'",
+      "respuestaCorrecta": "axkan yokitta tlen michin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nimanaz",
+      "audio": "nimanaz.mp3",
+      "opciones": ["Yo mando", "Yo mandé", "Yo mandaré"],
+      "respuestaCorrecta": "Yo mandaré"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué terminación indica futuro en náhuatl?",
+      "opciones": ["-ya", "-z", "-tl"],
+      "respuestaCorrecta": "-z"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'sólo bien'",
+      "respuestaCorrecta": "zan kuali"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "axka",
+      "audio": "axka.mp3",
+      "opciones": ["Ahora", "Todavía", "Sólo"],
+      "respuestaCorrecta": "Todavía"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'axkan niknekiz'?",
+      "opciones": ["Ahora quiero", "Ahora querré", "Todavía quiero"],
+      "respuestaCorrecta": "Ahora querré"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa: Yo ___ (mandar en futuro)",
+      "respuestaCorrecta": "nimanaz"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kuali",
+      "audio": "kuali.mp3",
+      "opciones": ["Malo", "Bueno/bien", "Rápido"],
+      "respuestaCorrecta": "Bueno/bien"
+    }
+  ]
+}

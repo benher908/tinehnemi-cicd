@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikitta'?",
+      "opciones": ["Yo veo", "Tú ves", "Él ve"],
+      "respuestaCorrecta": "Yo veo"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'tú ves'",
+      "respuestaCorrecta": "tikitta"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "yokitta",
+      "audio": "yokitta.mp3",
+      "opciones": ["Yo veo", "Tú ves", "Él/ella ve"],
+      "respuestaCorrecta": "Él/ella ve"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaya'?",
+      "opciones": ["Yo veo", "Yo vi", "Yo veré"],
+      "respuestaCorrecta": "Yo vi"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo quiero'",
+      "respuestaCorrecta": "nikneki"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tikneki",
+      "audio": "tikneki.mp3",
+      "opciones": ["Yo quiero", "Tú quieres", "Él quiere"],
+      "respuestaCorrecta": "Tú quieres"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikitta tlen kalli'?",
+      "opciones": ["Yo veo la casa", "Tú ves la casa", "Yo vi la casa"],
+      "respuestaCorrecta": "Yo veo la casa"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo vi el pez'",
+      "respuestaCorrecta": "nikittaya tlen michin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikneki",
+      "audio": "nikneki.mp3",
+      "opciones": ["Yo quiero", "Yo quise", "Yo querré"],
+      "respuestaCorrecta": "Yo quiero"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es el prefijo para 'yo' en náhuatl?",
+      "opciones": ["ni-", "ti-", "yo-"],
+      "respuestaCorrecta": "ni-"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'él/ella ve'",
+      "respuestaCorrecta": "yokitta"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikitta tlen kalli",
+      "audio": "nikitta_tlen_kalli.mp3",
+      "opciones": ["Yo veo la casa", "Tú ves la casa", "Él ve la casa"],
+      "respuestaCorrecta": "Yo veo la casa"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué partícula se usa para introducir el objeto directo?",
+      "opciones": ["tlen", "ika", "nech"],
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa: Yo ___ (ver en pasado)",
+      "respuestaCorrecta": "nikittaya"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikittaya",
+      "audio": "nikittaya.mp3",
+      "opciones": ["Yo veo", "Yo vi", "Yo veré"],
+      "respuestaCorrecta": "Yo vi"
+    }
+  ]
+}

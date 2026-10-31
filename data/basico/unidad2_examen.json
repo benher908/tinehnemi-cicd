@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "unidad": "Material Escolar y Frases de Aula",
+    "nivel": "basico",
+    "objetivos": [
+      "Identificar material escolar en náhuatl",
+      "Usar instrucciones básicas de aula",
+      "Hacer preguntas y peticiones en contexto escolar"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'amatl'?",
+      "opciones": ["Carpeta", "Hoja/papel", "Borrador"],
+      "respuestaCorrecta": "Hoja/papel",
+      "explicacion": "Amatl es la palabra náhuatl para hoja o papel, material básico en el aula."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'carpeta' en náhuatl?",
+      "opciones": ["amatl", "amatltilahwak", "tlahkwiloli"],
+      "respuestaCorrecta": "amatltilahwak",
+      "explicacion": "Amatltilahwak es la palabra compuesta que significa carpeta."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlahkwiloli'?",
+      "opciones": ["Regla", "Borrador", "Material"],
+      "respuestaCorrecta": "Borrador",
+      "explicacion": "Tlahkwiloli se refiere al borrador, herramienta para corregir escritura."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'toma la hoja' en náhuatl?",
+      "opciones": ["xihtlapo amatl", "xikwika tlen amatl", "xihtsahwa amatl"],
+      "respuestaCorrecta": "xikwika tlen amatl",
+      "explicacion": "Xikwika tlen amatl es la instrucción para tomar la hoja."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'xihtlapo amatltilahwak'?",
+      "opciones": ["Cierra la carpeta", "Abre la carpeta", "Toma la carpeta"],
+      "respuestaCorrecta": "Abre la carpeta",
+      "explicacion": "Xihtlapo es el comando para abrir, aplicado a la carpeta."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'cierra la carpeta' en náhuatl?",
+      "opciones": ["xihtlapo amatltilahwak", "xihtsahwa amatltilahwak", "xikwika amatltilahwak"],
+      "respuestaCorrecta": "xihtsahwa amatltilahwak",
+      "explicacion": "Xihtsahwa es el comando para cerrar la carpeta."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kaninka tlen tlahkwiloli?'",
+      "opciones": ["¿Cómo está el borrador?", "¿Dónde está el borrador?", "¿Qué es el borrador?"],
+      "respuestaCorrecta": "¿Dónde está el borrador?",
+      "explicacion": "Kaninka es la palabra interrogativa para preguntar 'dónde'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice '¿puedo ir al baño?' en náhuatl?",
+      "opciones": ["moneki nias ipan baño?", "welis nias ipan baño?", "kaninka ipan baño?"],
+      "respuestaCorrecta": "welis nias ipan baño?",
+      "explicacion": "Welis es la forma de preguntar si se puede hacer algo, equivale a '¿puedo?'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'moneki okse amatl'?",
+      "opciones": ["Quiero una hoja", "Necesito una hoja más", "Tengo una hoja"],
+      "respuestaCorrecta": "Necesito una hoja más",
+      "explicacion": "Moneki expresa necesidad, y okse significa 'una más' o 'otra'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'pásame la regla' en náhuatl?",
+      "opciones": ["xipanolti tlen tlanawatihketl", "xinechpanolti tlen tlanawatihketl", "xikwika tlen tlanawatihketl"],
+      "respuestaCorrecta": "xinechpanolti tlen tlanawatihketl",
+      "explicacion": "Xinechpanolti significa 'pásame', dirigido específicamente hacia el hablante."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'pasa el material' en náhuatl?",
+      "opciones": ["xipanolti tlen tlamantli", "xikwika tlen tlamantli", "xihtlapo tlen tlamantli"],
+      "respuestaCorrecta": "xipanolti tlen tlamantli",
+      "explicacion": "Xipanolti es el comando para pasar o entregar algo."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlen tekitl yeski...'?",
+      "opciones": ["El trabajo está...", "La tarea es...", "El material es..."],
+      "respuestaCorrecta": "La tarea es...",
+      "explicacion": "Esta frase se usa para explicar qué consiste la tarea o trabajo asignado."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'Necesito una hoja más' en náhuatl?",
+      "opciones": ["moneki okse amatl", "xikwika okse amatl", "kaninka okse amatl"],
+      "respuestaCorrecta": "moneki okse amatl",
+      "explicacion": "La traducción correcta usa 'moneki' (necesito) y 'okse amatl' (una hoja más)."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'regla' en náhuatl?",
+      "opciones": ["tlamantli", "tlahkwiloli", "tlanawatihketl"],
+      "respuestaCorrecta": "tlanawatihketl",
+      "explicacion": "Tlanawatihketl es la palabra específica para la regla de medir."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué palabra completa la pregunta: '_____ tlen tlahkwiloli?' (¿Dónde está el borrador?)",
+      "opciones": ["kaninka", "welis", "moneki"],
+      "respuestaCorrecta": "kaninka",
+      "explicacion": "Kaninka es la palabra interrogativa para preguntar por la ubicación de algo."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "titulo": "Números 1-5",
+  "descripcion": "Aprenderás a contar del uno al cinco en náhuatl.",
+  "secciones": [
+    {
+      "titulo": "Mis primeros números",
+      "contenido": "Empezaremos con los números más básicos:",
+      "palabras": [
+        {
+          "nahuatl": "ce",
+          "espanol": "uno",
+          "ejemplo": "Ce amatl (Una hoja)"
+        },
+        {
+          "nahuatl": "ome",
+          "espanol": "dos",
+          "ejemplo": "Ome tlahkwiloli (Dos lápices)"
+        },
+        {
+          "nahuatl": "eyi",
+          "espanol": "tres",
+          "ejemplo": "Eyi amatltilahwak (Tres carpetas)"
+        }
+      ]
+    },
+    {
+      "titulo": "Completando hasta cinco",
+      "contenido": "Ahora aprenderemos cuatro y cinco:",
+      "palabras": [
+        {
+          "nahuatl": "nahui",
+          "espanol": "cuatro",
+          "ejemplo": "Nahui amatl (Cuatro hojas)"
+        },
+        {
+          "nahuatl": "macuilli",
+          "espanol": "cinco",
+          "ejemplo": "Macuilli tlahkwiloli (Cinco lápices)"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando objetos",
+      "contenido": "Practiquemos contando las cosas del aula:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce, ome, eyi",
+          "espanol": "Uno, dos, tres"
+        },
+        {
+          "nahuatl": "Nahui, macuilli",
+          "espanol": "Cuatro, cinco"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "¡Ya sabes contar hasta cinco!\n\n• ce = 1\n• ome = 2\n• eyi = 3\n• nahui = 4\n• macuilli = 5\n\n¡Ahora puedes contar tus útiles escolares!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Números 1-5",
+    "instrucciones": "¿Cuál es cada número?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'tres' en náhuatl?",
+        "opciones": ["Ome", "Eyi", "Nahui"],
+        "respuestaCorrecta": "Eyi"
+      },
+      {
+        "pregunta": "¿Qué número es 'macuilli'?",
+        "opciones": ["Cuatro", "Cinco", "Tres"],
+        "respuestaCorrecta": "Cinco"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'dos'?",
+        "opciones": ["Ce", "Ome", "Eyi"],
+        "respuestaCorrecta": "Ome"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categoria": "Objetos y entorno",
+  "palabras": [
+    {
+      "nahuatl": "kalli",
+      "espanol": "casa",
+      "audio": "kalli.mp3"
+    },
+    {
+      "nahuatl": "tetl",
+      "espanol": "piedra",
+      "audio": "tetl.mp3"
+    },
+    {
+      "nahuatl": "atl",
+      "espanol": "agua",
+      "audio": "atl.mp3"
+    },
+    {
+      "nahuatl": "xochitl",
+      "espanol": "flor",
+      "audio": "xochitl.mp3"
+    },
+    {
+      "nahuatl": "kuikatl",
+      "espanol": "canción",
+      "audio": "kuikatl.mp3"
+    },
+    {
+      "nahuatl": "tlakatl",
+      "espanol": "persona / hombre",
+      "audio": "tlakatl.mp3"
+    },
+    {
+      "nahuatl": "siwatl",
+      "espanol": "mujer",
+      "audio": "siwatl.mp3"
+    }
+  ]
+}

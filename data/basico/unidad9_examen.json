@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "unidad": "unidad9",
+    "nivel": "basico",
+    "objetivos": [
+      "Evaluar conocimiento de colores básicos",
+      "Verificar comprensión de vocabulario cromático",
+      "Comprobar habilidades de descripción visual"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'rojo' en náhuatl?",
+      "opciones": ["Chichiltic", "Kostic", "Mamaltic", "Texotic"],
+      "respuestaCorrecta": "Chichiltic",
+      "explicacion": "'Chichiltic' significa 'rojo' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'amarillo' en náhuatl?",
+      "opciones": ["Kostic", "Chichiltic", "Mamaltic", "Texotic"],
+      "respuestaCorrecta": "Kostic",
+      "explicacion": "'Kostic' significa 'amarillo' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'verde' en náhuatl?",
+      "opciones": ["Quiltic", "Kostic", "Chichiltic", "Mamaltic"],
+      "respuestaCorrecta": "Quiltic",
+      "explicacion": "'Quiltic' significa 'verde' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'azul' en náhuatl?",
+      "opciones": ["Texotic", "Quiltic", "Kostic", "Chichiltic"],
+      "respuestaCorrecta": "Texotic",
+      "explicacion": "'Texotic' significa 'azul' en náhuatl."
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "El color del sol es ___",
+      "respuestaCorrecta": "kostic",
+      "explicacion": "El sol es amarillo, que en náhuatl se dice 'kostic'."
+    }
+  ]
+}

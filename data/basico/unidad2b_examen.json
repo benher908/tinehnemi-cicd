@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Por Favor",
+  "descripcion": "Demuestra que sabes pedir con educación",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'por favor' en náhuatl?",
+      "opciones": ["Se tlapalewili", "Tlasohkamati", "Nolti", "Tonalti"],
+      "respuestaCorrecta": "Se tlapalewili",
+      "explicacion": "'Se tlapalewili' es la expresión de cortesía para pedir algo de manera respetuosa."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo pides una hoja educadamente?",
+      "opciones": ["Se tlapalewili, amatl", "Amatl, tlasohkamati", "Nolti, amatl", "Amatl, se tlapalewili"],
+      "respuestaCorrecta": "Se tlapalewili, amatl",
+      "explicacion": "La forma correcta es decir primero 'se tlapalewili' (por favor) y después lo que necesitas."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es la secuencia más educada al pedir algo?",
+      "opciones": ["Por favor → Pedir → Agradecer", "Pedir → Por favor → Agradecer", "Agradecer → Por favor → Pedir", "Solo pedir"],
+      "respuestaCorrecta": "Por favor → Pedir → Agradecer",
+      "explicacion": "La secuencia perfecta es: se tlapalewili (por favor), pedir lo que necesitas, tlasohkamati (gracias)."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 15,
+    "insignia": "Muy Educado",
+    "mensaje": "¡Perfecto! Ahora eres muy cortés en náhuatl. 🤝"
+  }
+}

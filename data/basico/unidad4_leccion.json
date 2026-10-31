@@ -1,0 +1,79 @@
+{
+  "titulo": "Instrucciones de Aula",
+  "descripcion": "Aprenderás las instrucciones más simples que escuchas en clase.",
+  "secciones": [
+    {
+      "titulo": "Acciones básicas",
+      "contenido": "Estas son las primeras acciones que aprenderás:",
+      "palabras": [
+        {
+          "nahuatl": "xikwika",
+          "espanol": "toma",
+          "ejemplo": "Xikwika amatl (Toma la hoja)"
+        },
+        {
+          "nahuatl": "xihtlapo",
+          "espanol": "abre",
+          "ejemplo": "Xihtlapo amatltilahwak (Abre la carpeta)"
+        }
+      ]
+    },
+    {
+      "titulo": "Más acciones útiles",
+      "contenido": "Continuamos con otras acciones importantes:",
+      "palabras": [
+        {
+          "nahuatl": "xihtsahwa",
+          "espanol": "cierra",
+          "ejemplo": "Xihtsahwa amatltilahwak (Cierra la carpeta)"
+        }
+      ]
+    },
+    {
+      "titulo": "Siguiendo instrucciones",
+      "contenido": "Practiquemos siguiendo órdenes simples:",
+      "dialogo": [
+        {
+          "persona": "Maestro",
+          "texto": "Xikwika amatl",
+          "traduccion": "Toma la hoja"
+        },
+        {
+          "persona": "Estudiante",
+          "texto": "Tlasohkamati",
+          "traduccion": "Gracias"
+        },
+        {
+          "persona": "Maestro",
+          "texto": "Xihtlapo amatltilahwak",
+          "traduccion": "Abre la carpeta"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "Ahora puedes entender estas instrucciones:\n\n• xikwika = toma\n• xihtlapo = abre\n• xihtsahwa = cierra\n\n¡Ya puedes seguir las instrucciones básicas del maestro!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Instrucciones",
+    "instrucciones": "¿Qué significa cada instrucción?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Qué significa 'xikwika'?",
+        "opciones": ["Toma", "Abre", "Cierra"],
+        "respuestaCorrecta": "Toma"
+      },
+      {
+        "pregunta": "Si el maestro dice 'xihtlapo', quiere que:",
+        "opciones": ["Tomes algo", "Abras algo", "Cierres algo"],
+        "respuestaCorrecta": "Abras algo"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'cierra'?",
+        "opciones": ["Xikwika", "Xihtlapo", "Xihtsahwa"],
+        "respuestaCorrecta": "Xihtsahwa"
+      }
+    ]
+  }
+}

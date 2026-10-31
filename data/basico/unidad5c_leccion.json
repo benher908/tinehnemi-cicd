@@ -1,0 +1,74 @@
+{
+  "titulo": "Solo 'Pino'",
+  "descripcion": "Los pinos que crecen en la Sierra Negra de Puebla.",
+  "secciones": [
+    {
+      "titulo": "El árbol de nuestra sierra",
+      "contenido": "En la Sierra Negra, uno de los árboles más comunes es el pino u ocote. Los antiguos nahuas lo conocían muy bien:",
+      "palabras": [
+        {
+          "nahuatl": "ocotl",
+          "espanol": "pino/ocote",
+          "ejemplo": "Ocotl (Un pino)"
+        }
+      ]
+    },
+    {
+      "titulo": "¿Sabías que...?",
+      "contenido": "El 'ocotl' no solo era importante como árbol, sino que su resina se usaba para hacer antorchas. ¡Era la luz antes de la electricidad!"
+    },
+    {
+      "titulo": "Describiendo nuestro bosque",
+      "contenido": "Ahora puedes describir mejor el paisaje de la Sierra Negra:",
+      "ejemplos": [
+        {
+          "nahuatl": "Tepetl",
+          "espanol": "Cerro"
+        },
+        {
+          "nahuatl": "Cuahuitl",
+          "espanol": "Árbol (general)"
+        },
+        {
+          "nahuatl": "Ocotl",
+          "espanol": "Pino (específico)"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando pinos",
+      "contenido": "Usa los números que conoces:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce ocotl",
+          "espanol": "Un pino"
+        },
+        {
+          "nahuatl": "Ome ocotl",
+          "espanol": "Dos pinos"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Pino",
+    "instrucciones": "Aprende sobre los pinos de tu región:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'pino' en náhuatl?",
+        "opciones": ["Ocotl", "Cuahuitl", "Tepetl"],
+        "respuestaCorrecta": "Ocotl"
+      },
+      {
+        "pregunta": "¿Qué árbol es muy común en la Sierra Negra?",
+        "opciones": ["Ocotl", "Amatl", "Nolti"],
+        "respuestaCorrecta": "Ocotl"
+      },
+      {
+        "pregunta": "¿Cómo dices 'dos pinos'?",
+        "opciones": ["Ome ocotl", "Ce ocotl", "Ocotl ome"],
+        "respuestaCorrecta": "Ome ocotl"
+      }
+    ]
+  }
+}

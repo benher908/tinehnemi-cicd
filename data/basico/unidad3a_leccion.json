@@ -1,0 +1,51 @@
+{
+  "titulo": "Solo 'Papel'",
+  "descripcion": "Tu primer objeto del aula: la hoja de papel.",
+  "secciones": [
+    {
+      "titulo": "Lo más básico para aprender",
+      "contenido": "En el aula, lo primero que necesitas es algo donde escribir:",
+      "palabras": [
+        {
+          "nahuatl": "amatl",
+          "espanol": "hoja/papel",
+          "ejemplo": "Amatl (Una hoja)"
+        }
+      ]
+    },
+    {
+      "titulo": "¿Sabías que...?",
+      "contenido": "La palabra 'amatl' viene de los antiguos códices aztecas, que se hacían en papel de amate. ¡Estás aprendiendo una palabra con miles de años de historia!"
+    },
+    {
+      "titulo": "Pidiendo papel educadamente",
+      "contenido": "Ahora puedes combinar lo que has aprendido:",
+      "ejemplos": [
+        {
+          "nahuatl": "Se tlapalewili, amatl",
+          "espanol": "Por favor, una hoja"
+        },
+        {
+          "nahuatl": "Tlasohkamati",
+          "espanol": "Gracias (después de recibirla)"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Papel",
+    "instrucciones": "Aprende tu primer objeto:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'hoja' en náhuatl?",
+        "opciones": ["Amatl", "Tlasohkamati", "Nolti"],
+        "respuestaCorrecta": "Amatl"
+      },
+      {
+        "pregunta": "¿Cómo pides una hoja educadamente?",
+        "opciones": ["Se tlapalewili, amatl", "Nolti, amatl", "Amatl, tlasohkamati"],
+        "respuestaCorrecta": "Se tlapalewili, amatl"
+      }
+    ]
+  }
+}

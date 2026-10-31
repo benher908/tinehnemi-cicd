@@ -1,0 +1,72 @@
+{
+  "titulo": "Buenas Tardes",
+  "descripcion": "El saludo perfecto para la tarde.",
+  "secciones": [
+    {
+      "titulo": "Cuando el sol está alto",
+      "contenido": "Para las tardes, cuando el sol ya pasó su punto más alto, usamos:",
+      "palabras": [
+        {
+          "nahuatl": "tiotlakilti",
+          "espanol": "buenas tardes",
+          "ejemplo": "Tiotlakilti (Buenas tardes)"
+        }
+      ]
+    },
+    {
+      "titulo": "Repaso de todos los saludos",
+      "contenido": "Ahora ya conoces los tres saludos principales:",
+      "ejemplos": [
+        {
+          "nahuatl": "Nolti",
+          "espanol": "Hola (cualquier momento)"
+        },
+        {
+          "nahuatl": "Tonalti",
+          "espanol": "Buenos días (mañana)"
+        },
+        {
+          "nahuatl": "Tiotlakilti",
+          "espanol": "Buenas tardes (tarde)"
+        }
+      ]
+    },
+    {
+      "titulo": "Tu primer diálogo completo",
+      "contenido": "Imagina que es la tarde y te encuentras con un amigo:",
+      "dialogo": [
+        {
+          "persona": "Tú",
+          "texto": "Nolti, tiotlakilti",
+          "traduccion": "Hola, buenas tardes"
+        },
+        {
+          "persona": "Amigo",
+          "texto": "Nolti",
+          "traduccion": "Hola"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Buenas Tardes",
+    "instrucciones": "Completa tu conocimiento de saludos:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'buenas tardes'?",
+        "opciones": ["Tiotlakilti", "Tonalti", "Nolti"],
+        "respuestaCorrecta": "Tiotlakilti"
+      },
+      {
+        "pregunta": "¿Qué saludo usas a cualquier hora?",
+        "opciones": ["Nolti", "Tonalti", "Tiotlakilti"],
+        "respuestaCorrecta": "Nolti"
+      },
+      {
+        "pregunta": "Son las 3 de la tarde, ¿qué dices?",
+        "opciones": ["Tiotlakilti", "Tonalti", "Solo nolti"],
+        "respuestaCorrecta": "Tiotlakilti"
+      }
+    ]
+  }
+}

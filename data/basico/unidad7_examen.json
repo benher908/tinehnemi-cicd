@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "unidad": "unidad7",
+    "nivel": "basico",
+    "objetivos": [
+      "Evaluar conocimiento de números 3-5",
+      "Verificar comprensión de conteo básico",
+      "Comprobar habilidades de aplicación numérica"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'tres' en náhuatl?",
+      "opciones": ["Yei", "Ce", "Ome", "Nahui"],
+      "respuestaCorrecta": "Yei",
+      "explicacion": "'Yei' significa 'tres' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué número viene después de 'ome'?",
+      "opciones": ["Yei", "Ce", "Nahui", "Makuilli"],
+      "respuestaCorrecta": "Yei",
+      "explicacion": "Después de 'ome' (dos) viene 'yei' (tres)."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'cuatro' en náhuatl?",
+      "opciones": ["Nahui", "Yei", "Makuilli", "Ome"],
+      "respuestaCorrecta": "Nahui",
+      "explicacion": "'Nahui' significa 'cuatro' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'cinco' en náhuatl?",
+      "opciones": ["Makuilli", "Nahui", "Yei", "Chikuase"],
+      "respuestaCorrecta": "Makuilli",
+      "explicacion": "'Makuilli' significa 'cinco' en náhuatl."
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa la secuencia: ce, ome, ___",
+      "respuestaCorrecta": "yei",
+      "explicacion": "La secuencia es: ce (uno), ome (dos), yei (tres)."
+    }
+  ]
+}

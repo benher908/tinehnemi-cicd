@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlen tikitta?'?",
+      "opciones": ["¿Qué ves?", "¿Qué quieres?", "¿Dónde estás?"],
+      "respuestaCorrecta": "¿Qué ves?"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: '¿qué quieres?'",
+      "respuestaCorrecta": "tlen tikneki"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikitta michin",
+      "audio": "nikitta_michin.mp3",
+      "opciones": ["Veo un pez", "Quiero un pez", "Tengo un pez"],
+      "respuestaCorrecta": "Veo un pez"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka'?",
+      "opciones": ["Está mal", "Está bien", "Está lejos"],
+      "respuestaCorrecta": "Está bien"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo responderías a 'tlen tikneki?' si quieres agua?",
+      "respuestaCorrecta": "nikneki atl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kuali ka tlatskanilistli",
+      "audio": "kuali_ka_tlatskanilistli.mp3",
+      "opciones": ["Buena es la llegada", "Buena es la despedida", "Buena es la comida"],
+      "respuestaCorrecta": "Buena es la despedida"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlen motoka?'?",
+      "opciones": ["¿Cómo te llamas?", "¿Dónde vives?", "¿Qué quieres?"],
+      "respuestaCorrecta": "¿Cómo te llamas?"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo responderías a 'tlen motoka?' con tu nombre Juan?",
+      "respuestaCorrecta": "notoka Juan"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlen tikneki",
+      "audio": "tlen_tikneki.mp3",
+      "opciones": ["¿Qué ves?", "¿Qué quieres?", "¿Dónde estás?"],
+      "respuestaCorrecta": "¿Qué quieres?"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka tlamachilistli'?",
+      "opciones": ["La enseñanza es mala", "La enseñanza es buena", "La enseñanza es difícil"],
+      "respuestaCorrecta": "La enseñanza es buena"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'buena es la despedida'",
+      "respuestaCorrecta": "kuali ka tlatskanilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikneki atl",
+      "audio": "nikneki_atl.mp3",
+      "opciones": ["Veo agua", "Quiero agua", "Tengo agua"],
+      "respuestaCorrecta": "Quiero agua"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se pregunta '¿qué ves?' en náhuatl?",
+      "opciones": ["tlen tikitta", "tlen tikneki", "tlen motoka"],
+      "respuestaCorrecta": "tlen tikitta"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: '¿cómo te llamas?'",
+      "respuestaCorrecta": "tlen motoka"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "notoka Juan",
+      "audio": "notoka_juan.mp3",
+      "opciones": ["Me llamo Juan", "Te llamas Juan", "Él se llama Juan"],
+      "respuestaCorrecta": "Me llamo Juan"
+    }
+  ]
+}

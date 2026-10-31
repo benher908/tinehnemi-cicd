@@ -1,0 +1,65 @@
+{
+  "categoria": "Verbos comunes",
+  "palabras": [
+    {
+      "nahuatl": "tlahkwiloa",
+      "espanol": "escribir",
+      "audio": "tlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "nitlahkwiloa",
+      "espanol": "yo escribo",
+      "audio": "nitlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "titlahkwiloa",
+      "espanol": "tú escribes",
+      "audio": "titlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "tlacua",
+      "espanol": "comer",
+      "audio": "tlacua.mp3"
+    },
+    {
+      "nahuatl": "nitlacua",
+      "espanol": "yo como",
+      "audio": "nitlacua.mp3"
+    },
+    {
+      "nahuatl": "tekiti",
+      "espanol": "trabajar",
+      "audio": "tekiti.mp3"
+    },
+    {
+      "nahuatl": "nitekiti",
+      "espanol": "yo trabajo",
+      "audio": "nitekiti.mp3"
+    },
+    {
+      "nahuatl": "tlamachti",
+      "espanol": "estudiar/enseñar",
+      "audio": "tlamachti.mp3"
+    },
+    {
+      "nahuatl": "cualtia",
+      "espanol": "cocinar",
+      "audio": "cualtia.mp3"
+    },
+    {
+      "nahuatl": "huelis nimitzpalehuis?",
+      "espanol": "¿te puedo ayudar?",
+      "audio": "huelis_nimitzpalehuis.mp3"
+    },
+    {
+      "nahuatl": "xinech cuālika",
+      "espanol": "tráeme",
+      "audio": "xinech_cuālika.mp3"
+    },
+    {
+      "nahuatl": "ma tihchiwakah",
+      "espanol": "vamos a hacer",
+      "audio": "ma_tihchiwakah.mp3"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nawatlahtolli'?",
+      "opciones": ["Lengua náhuatl", "Persona náhuatl", "Tierra náhuatl"],
+      "respuestaCorrecta": "Lengua náhuatl"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'enseñanza'",
+      "respuestaCorrecta": "tlamachilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "macehualistli",
+      "audio": "macehualistli.mp3",
+      "opciones": ["Sabiduría", "Humildad", "Fortaleza"],
+      "respuestaCorrecta": "Humildad"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehnemi'?",
+      "opciones": ["Caminar físicamente", "Vivir bien, andar con rectitud", "Hablar correctamente"],
+      "respuestaCorrecta": "Vivir bien, andar con rectitud"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'noche espiritual'",
+      "respuestaCorrecta": "tlayohua"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlayohualmej",
+      "audio": "tlayohualmej.mp3",
+      "opciones": ["Seres de la noche / espíritus", "Seres del día", "Seres del agua"],
+      "respuestaCorrecta": "Seres de la noche / espíritus"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlakatl tlen nemilistli'?",
+      "opciones": ["Hombre común", "Persona sabia / de camino recto", "Niño pequeño"],
+      "respuestaCorrecta": "Persona sabia / de camino recto"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'lengua náhuatl'",
+      "respuestaCorrecta": "nawatlahtolli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehnemi",
+      "audio": "nehnemi.mp3",
+      "opciones": ["Caminar físicamente", "Vivir bien, andar con rectitud", "Hablar correctamente"],
+      "respuestaCorrecta": "Vivir bien, andar con rectitud"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué concepto representa 'macehualistli'?",
+      "opciones": ["Orgullo", "Humildad", "Valentía"],
+      "respuestaCorrecta": "Humildad"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'seres de la noche / espíritus'",
+      "respuestaCorrecta": "tlayohualmej"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlakatl tlen nemilistli",
+      "audio": "tlakatl_tlen_nemilistli.mp3",
+      "opciones": ["Hombre común", "Persona sabia / de camino recto", "Niño pequeño"],
+      "respuestaCorrecta": "Persona sabia / de camino recto"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlamachilistli'?",
+      "opciones": ["Aprendizaje", "Enseñanza", "Estudio"],
+      "respuestaCorrecta": "Enseñanza"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'humildad'",
+      "respuestaCorrecta": "macehualistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlayohua",
+      "audio": "tlayohua.mp3",
+      "opciones": ["Día espiritual", "Noche espiritual", "Camino espiritual"],
+      "respuestaCorrecta": "Noche espiritual"
+    }
+  ]
+}

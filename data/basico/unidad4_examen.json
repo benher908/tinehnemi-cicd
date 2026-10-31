@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'cabeza' en náhuatl?",
+      "opciones": ["ixkuikani", "naki", "ichpo"],
+      "respuestaCorrecta": "ixkuikani"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'mano' en náhuatl",
+      "respuestaCorrecta": "naki"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "ichpo",
+      "audio": "ichpo.mp3",
+      "opciones": ["cabeza", "mano", "ojo"],
+      "respuestaCorrecta": "ojo"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué parte del cuerpo es 'nacatl'?",
+      "opciones": ["cabeza", "cuerpo", "pie"],
+      "respuestaCorrecta": "cuerpo"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'pie' al náhuatl",
+      "respuestaCorrecta": "tetetl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nanaka",
+      "audio": "nanaka.mp3",
+      "opciones": ["cara", "nariz", "ojo"],
+      "respuestaCorrecta": "nariz"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'cara'?",
+      "opciones": ["nako", "ichpo", "ixkuikani"],
+      "respuestaCorrecta": "nako"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'ojo' en náhuatl",
+      "respuestaCorrecta": "ichpo"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "ixkuikani",
+      "audio": "ixkuikani.mp3",
+      "opciones": ["cabeza", "cuerpo", "cara"],
+      "respuestaCorrecta": "cabeza"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué parte del cuerpo es 'naki'?",
+      "opciones": ["pie", "mano", "nariz"],
+      "respuestaCorrecta": "mano"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'cuerpo' al náhuatl",
+      "respuestaCorrecta": "nacatl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tetetl",
+      "audio": "tetetl.mp3",
+      "opciones": ["mano", "nariz", "pie"],
+      "respuestaCorrecta": "pie"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál de estas partes está en la cara?",
+      "opciones": ["tetetl", "nanaka", "naki"],
+      "respuestaCorrecta": "nanaka"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo se dice 'cara' en náhuatl?",
+      "respuestaCorrecta": "nako"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nako",
+      "audio": "nako.mp3",
+      "opciones": ["cabeza", "cara", "cuerpo"],
+      "respuestaCorrecta": "cara"
+    }
+  ]
+}

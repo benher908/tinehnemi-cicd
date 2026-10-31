@@ -1,0 +1,55 @@
+{
+  "titulo": "Expresiones poéticas",
+  "descripcion": "Aprenderás expresiones poéticas y el uso de conectores en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka tlamachilistli, zan yohui ik tepetl'?",
+      "opciones": ["La enseñanza es mala, va como el camino del cerro", "La enseñanza es buena, va como el camino del cerro", "La enseñanza es difícil, va como el camino del cerro"],
+      "respuestaCorrecta": "La enseñanza es buena, va como el camino del cerro"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan kuali tlen nemilistli",
+      "audio": "zan_kuali_tlen_nemilistli.mp3",
+      "opciones": ["Solo eso es vida verdadera", "Solo eso es vida falsa", "Solo eso es vida corta"],
+      "respuestaCorrecta": "Solo eso es vida verdadera"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'no es bueno que me cantes para matarme'",
+      "respuestaCorrecta": "amo kuali tlen nechkuika nimitzmikilia"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehuatl nikneki tlen mopiaj tlamachilistli'?",
+      "opciones": ["Yo quiero que conserves la enseñanza", "Yo quiero que olvides la enseñanza", "Yo quiero que cambies la enseñanza"],
+      "respuestaCorrecta": "Yo quiero que conserves la enseñanza"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen nechkuika nimitzmikilia",
+      "audio": "amo_kuali_tlen_nechkuika.mp3",
+      "opciones": ["Es bueno que me cantes para matarme", "No es bueno que me cantes para matarme", "Es bueno que me cantes para salvarme"],
+      "respuestaCorrecta": "No es bueno que me cantes para matarme"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'la enseñanza es buena, va como el camino del cerro'",
+      "respuestaCorrecta": "kuali ka tlamachilistli, zan yohui ik tepetl"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué conector se usa en 'zan kuali tlen nemilistli'?",
+      "opciones": ["zan", "tlen", "ik"],
+      "respuestaCorrecta": "tlen"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikneki tlen mopiaj tlamachilistli",
+      "audio": "nikneki_tlen_mopiaj_tlamachilistli.mp3",
+      "opciones": ["Yo quiero que conserves la enseñanza", "Yo quiero que olvides la enseñanza", "Yo quiero que cambies la enseñanza"],
+      "respuestaCorrecta": "Yo quiero que conserves la enseñanza"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "descripcion": "Examen diagnóstico mejorado con progresión de dificultad y evaluación integral",
+    "criterios": {
+      "basico": {
+        "rango": "0-45%",
+        "descripcion": "Conocimiento básico de vocabulario fundamental"
+      },
+      "intermedio": {
+        "rango": "46-75%",
+        "descripcion": "Comprensión de gramática básica y vocabulario amplio"
+      },
+      "avanzado": {
+        "rango": "76-100%",
+        "descripcion": "Dominio de estructuras complejas y expresiones idiomáticas"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'xochitl'?",
+      "opciones": ["Flor", "Sol", "Comida"],
+      "respuestaCorrecta": "Flor",
+      "nivel": "basico",
+      "categoria": "vocabulario_basico"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe la palabra náhuatl para 'agua'",
+      "respuestaCorrecta": "atl",
+      "nivel": "basico",
+      "categoria": "vocabulario_basico"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'casa' en náhuatl?",
+      "opciones": ["calli", "tepetl", "cuahuitl"],
+      "respuestaCorrecta": "calli",
+      "nivel": "basico",
+      "categoria": "vocabulario_basico"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tonatiuh",
+      "audio": "tonatiuh.mp3",
+      "opciones": ["Luna", "Sol", "Estrella"],
+      "respuestaCorrecta": "Sol",
+      "nivel": "basico",
+      "categoria": "comprension_auditiva"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'niltze'?",
+      "opciones": ["Hola", "Gracias", "Adiós"],
+      "respuestaCorrecta": "Hola",
+      "nivel": "basico",
+      "categoria": "saludos"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Para decir 'me llamo Juan', escribes: '_____ Juan'",
+      "respuestaCorrecta": "notoka",
+      "nivel": "basico",
+      "categoria": "presentaciones"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es la conjugación correcta de 'ver' en primera persona singular (yo veo)?",
+      "opciones": ["nikitta", "tikitta", "yokitta"],
+      "respuestaCorrecta": "nikitta",
+      "nivel": "intermedio",
+      "categoria": "conjugacion_verbos"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'tú quieres'",
+      "respuestaCorrecta": "tikneki",
+      "nivel": "intermedio",
+      "categoria": "conjugacion_verbos"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué partícula se usa para introducir el objeto directo en náhuatl?",
+      "opciones": ["tlen", "ika", "nech"],
+      "respuestaCorrecta": "tlen",
+      "nivel": "intermedio",
+      "categoria": "gramatica"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nikittaya",
+      "audio": "nikittaya.mp3",
+      "opciones": ["Yo veo", "Yo vi", "Yo veré"],
+      "respuestaCorrecta": "Yo vi",
+      "nivel": "intermedio",
+      "categoria": "tiempos_verbales"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es la diferencia entre 'nikitta' y 'nikittaya'?",
+      "opciones": ["Presente vs. Pasado", "Singular vs. Plural", "Masculino vs. Femenino"],
+      "respuestaCorrecta": "Presente vs. Pasado",
+      "nivel": "intermedio",
+      "categoria": "tiempos_verbales"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce la frase completa: 'Yo vi la casa'",
+      "respuestaCorrecta": "nikittaya tlen kalli",
+      "nivel": "intermedio",
+      "categoria": "oraciones_completas"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "En la expresión 'tlen kuali tlen nemilistli', ¿qué función cumple la repetición de 'tlen'?",
+      "opciones": ["Énfasis retórico", "Error gramatical", "Marcador de tiempo"],
+      "respuestaCorrecta": "Énfasis retórico",
+      "nivel": "avanzado",
+      "categoria": "expresiones_idiomaticas"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa la expresión filosófica: 'Tlen kuali tlen nemilistli, kuali ka tlen _____'",
+      "respuestaCorrecta": "tikmatika",
+      "nivel": "avanzado",
+      "categoria": "expresiones_filosoficas"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es el significado profundo de 'nemilistli' en el contexto de la cosmovisión náhuatl?",
+      "opciones": ["Vida como proceso dinámico", "Vida como estado estático", "Vida como concepto abstracto"],
+      "respuestaCorrecta": "Vida como proceso dinámico",
+      "nivel": "avanzado",
+      "categoria": "cosmovision"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "teotl",
+      "audio": "teotl.mp3",
+      "opciones": ["Energía divina", "Dios cristiano", "Espíritu ancestral"],
+      "respuestaCorrecta": "Energía divina",
+      "nivel": "avanzado",
+      "categoria": "conceptos_abstractos"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "En la estructura 'ni-k-itta', ¿qué representa el morfema 'k'?",
+      "opciones": ["Marcador de objeto", "Marcador de tiempo", "Marcador de persona"],
+      "respuestaCorrecta": "Marcador de objeto",
+      "nivel": "avanzado",
+      "categoria": "morfologia"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce la expresión poética: 'In xochitl in cuicatl' (flor y canto)",
+      "respuestaCorrecta": "la poesía",
+      "nivel": "avanzado",
+      "categoria": "metaforas_poeticas"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué concepto representa 'teoxihuitl' en el calendario náhuatl?",
+      "opciones": ["Año divino", "Mes sagrado", "Día ceremonial"],
+      "respuestaCorrecta": "Año divino",
+      "nivel": "avanzado",
+      "categoria": "cultura_calendario"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "En la expresión 'altepetl', ¿cuáles son los dos elementos que la componen?",
+      "respuestaCorrecta": "atl tepetl",
+      "nivel": "avanzado",
+      "categoria": "composicion_palabras"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es la función del sufijo '-tzin' en náhuatl?",
+      "opciones": ["Diminutivo/reverencial", "Aumentativo", "Negación"],
+      "respuestaCorrecta": "Diminutivo/reverencial",
+      "nivel": "intermedio",
+      "categoria": "morfologia_basica"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "quetzalcoatl",
+      "audio": "quetzalcoatl.mp3",
+      "opciones": ["Serpiente emplumada", "Águila dorada", "Jaguar nocturno"],
+      "respuestaCorrecta": "Serpiente emplumada",
+      "nivel": "intermedio",
+      "categoria": "mitologia"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nepantla' en la filosofía náhuatl?",
+      "opciones": ["Espacio intermedio/equilibrio", "Principio", "Final"],
+      "respuestaCorrecta": "Espacio intermedio/equilibrio",
+      "nivel": "avanzado",
+      "categoria": "filosofia_nahuatl"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'Yo soy de México' (usando 'ni-' y 'Mexihco')",
+      "respuestaCorrecta": "ni Mexihco",
+      "nivel": "intermedio",
+      "categoria": "origen_identidad"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "En 'tlamatiliztli', ¿qué concepto se expresa?",
+      "opciones": ["Conocimiento/sabiduría", "Ignorancia", "Duda"],
+      "respuestaCorrecta": "Conocimiento/sabiduría",
+      "nivel": "avanzado",
+      "categoria": "conceptos_abstractos"
+    }
+  ]
+}

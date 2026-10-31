@@ -1,0 +1,45 @@
+{
+  "categoria": "Saludos y Cortesía",
+  "palabras": [
+    {
+      "nahuatl": "nolti",
+      "espanol": "hola , buenos dias , tardes, noches",
+      "audio": "nolti.mp3"
+    },
+    {
+      "nahuatl": "tlasokamati",
+      "espanol": "gracias",
+      "audio": "tlasokamati.mp3"
+    },
+    {
+      "nahuatl": "mostla",
+      "espanol": "hasta manana",
+      "audio": "mostla.mp3"
+    },
+    {
+      "nahuatl": "Nimitstlapojpolhuia",
+      "espanol": "te pido perdón",
+      "audio": "Nimitstlapojpolhuia.mp3"
+    },
+    {
+      "nahuatl": "Se tlapalewili",
+      "espanol": "Por favor",
+      "audio": "Se tlapalewili.mp3"
+    },
+    {
+      "nahuatl": "Ika pakilistli",
+      "espanol": "Con gusto",
+      "audio": "Ika pakilistli.mp3"
+    },
+    {
+      "nahuatl": "Tlawel senka kwali",
+      "espanol": "Que bien",
+      "audio": "Tlawel senka kwali.mp3"
+    },
+    {
+      "nahuatl": "Toteko mistiochiwa",
+      "espanol": "Que Dios te bendiga",
+      "audio": "Toteko mistiochiwa.mp3"
+    }
+  ]
+}

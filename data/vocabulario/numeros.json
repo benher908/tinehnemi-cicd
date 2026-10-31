@@ -1,0 +1,55 @@
+{
+  "categoria": "Números",
+  "palabras": [
+    {
+      "nahuatl": "Se",
+      "espanol": "uno",
+      "audio": "se.mp3"
+    },
+    {
+      "nahuatl": "Ome",
+      "espanol": "Dos",
+      "audio": "ome.mp3"
+    },
+    {
+      "nahuatl": "Eyi",
+      "espanol": "tres",
+      "audio": "eyi.mp3"
+    },
+    {
+      "nahuatl": "Nawi",
+      "espanol": "cuatro",
+      "audio": "nawi.mp3"
+    },
+    {
+      "nahuatl": "Makwile",
+      "espanol": "cinco",
+      "audio": "Makwile.mp3"
+    },
+    {
+      "nahuatl": "Chikwase",
+      "espanol": "Seis",
+      "audio": "chikwase.mp3"
+    },
+    {
+      "nahuatl": "Chikome",
+      "espanol": "siete",
+      "audio": "chikome.mp3"
+    },
+    {
+      "nahuatl": "Chikweyi",
+      "espanol": "ocho",
+      "audio": "chikweyi.mp3"
+    },
+    {
+      "nahuatl": "Chiknawi",
+      "espanol": "nueve",
+      "audio": "chiknawi.mp3"
+    },
+    {
+      "nahuatl": "Mahtlahtli",
+      "espanol": "diez",
+      "audio": "mahtlati.mp3"
+    }
+  ]
+}

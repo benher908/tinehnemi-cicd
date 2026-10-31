@@ -1,0 +1,68 @@
+{
+  "titulo": "Solo 'Uno'",
+  "descripcion": "Tu primer número en náhuatl: el número uno.",
+  "secciones": [
+    {
+      "titulo": "El número más importante",
+      "contenido": "Empezaremos con el número que más usamos: el uno.",
+      "palabras": [
+        {
+          "nahuatl": "ce",
+          "espanol": "uno",
+          "ejemplo": "Ce (Uno)"
+        }
+      ]
+    },
+    {
+      "titulo": "Usando 'uno' con objetos",
+      "contenido": "Ahora puedes ser más específico con los objetos que conoces:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce amatl",
+          "espanol": "Una hoja"
+        },
+        {
+          "nahuatl": "Ce tlahkwiloli",
+          "espanol": "Un lápiz"
+        }
+      ]
+    },
+    {
+      "titulo": "Pidiendo con precisión",
+      "contenido": "Ahora puedes pedir exactamente lo que necesitas:",
+      "dialogo": [
+        {
+          "persona": "Tú",
+          "texto": "Se tlapalewili, ce amatl",
+          "traduccion": "Por favor, una hoja"
+        },
+        {
+          "persona": "Maestro",
+          "texto": "(Te da una hoja)",
+          "traduccion": "(Te da una hoja)"
+        },
+        {
+          "persona": "Tú",
+          "texto": "Tlasohkamati",
+          "traduccion": "Gracias"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Uno",
+    "instrucciones": "Aprende tu primer número:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'uno' en náhuatl?",
+        "opciones": ["Ce", "Amatl", "Tlahkwiloli"],
+        "respuestaCorrecta": "Ce"
+      },
+      {
+        "pregunta": "¿Cómo dices 'un lápiz'?",
+        "opciones": ["Ce tlahkwiloli", "Tlahkwiloli ce", "Ce amatl"],
+        "respuestaCorrecta": "Ce tlahkwiloli"
+      }
+    ]
+  }
+}

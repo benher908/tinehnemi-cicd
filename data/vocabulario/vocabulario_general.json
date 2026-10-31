@@ -1,0 +1,12 @@
+{
+  "categoria": "Vocabulario General",
+  "palabras": [
+    { "nahuatl": "alt",                "espanol": "agua",             "audio": "alt.mp3" },
+    { "nahuatl": "xochilt",            "espanol": "flor",             "audio": "xochilt.mp3" },
+    { "nahuatl": "tlacualli",          "espanol": "comida",           "audio": "tlacualli.mp3" },
+    { "nahuatl": "amo",                "espanol": "no",               "audio": "amo.mp3" },
+    { "nahuatl": "ni-mitz-palehuia",   "espanol": "Te puedo ayudar",  "audio": "ni-mitz-palehuia.mp3" },
+    { "nahuatl": "xinech-hualic",      "espanol": "Tráeme",           "audio": "xinech-hualic.mp3" },
+    { "nahuatl": "ti-tlachihchihuaz",  "espanol": "Vamos a hacer",     "audio": "ti-tlachihchihuaz.mp3" }
+  ]
+}

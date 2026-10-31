@@ -1,0 +1,55 @@
+{
+  "titulo": "En la escuela y la casa",
+  "descripcion": "Aprenderás vocabulario relacionado con la escuela y la casa en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlapohualoyan'?",
+      "opciones": ["Casa", "Escuela", "Trabajo"],
+      "respuestaCorrecta": "Escuela"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kaltikpak",
+      "audio": "kaltikpak.mp3",
+      "opciones": ["Fuera de la casa", "Dentro de la casa", "Cerca de la casa"],
+      "respuestaCorrecta": "Dentro de la casa"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'enseñanza'",
+      "respuestaCorrecta": "tlamachilistli"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlakatl pilli'?",
+      "opciones": ["Hombre adulto", "Joven", "Niño pequeño"],
+      "respuestaCorrecta": "Joven"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "siwatl huehue",
+      "audio": "siwatl_huehue.mp3",
+      "opciones": ["Mujer joven", "Mujer adulta", "Mujer anciana"],
+      "respuestaCorrecta": "Mujer anciana"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo veré la escuela'",
+      "respuestaCorrecta": "nehuatl nikittaz tlen tlapohualoyan"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlamachilistli'?",
+      "opciones": ["Aprendizaje", "Enseñanza", "Estudio"],
+      "respuestaCorrecta": "Enseñanza"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlapohualoyan",
+      "audio": "tlapohualoyan.mp3",
+      "opciones": ["Casa", "Escuela", "Trabajo"],
+      "respuestaCorrecta": "Escuela"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "categoria": "Naturaleza de la Sierra",
+  "palabras": [
+    {
+      "nahuatl": "Kojtlan",
+      "espanol": "Bosque o monte",
+      "audio": "cuauhtla.mp3"
+    },
+    {
+      "nahuatl": "Tlal-li",
+      "espanol": "Tierra",
+      "audio": "tlalli.mp3"
+    },
+    {
+      "nahuatl": "Yejiegatl",
+      "espanol": "Aire o viento",
+      "audio": "ehecatl.mp3"
+    },
+    {
+      "nahuatl": "Mixtli",
+      "espanol": "Nube",
+      "audio": "mixpantli.mp3"
+    },
+    {
+      "nahuatl": "sitlali",
+      "espanol": "estrella",
+      "audio": "citlalli.mp3"
+    },
+    {
+      "nahuatl": "tepetl",
+      "espanol": "cerro/montaña",
+      "audio": "tepetl.mp3"
+    },
+    {
+      "nahuatl": "atoyatl",
+      "espanol": "río",
+      "audio": "atoyatl.mp3"
+    },
+    {
+      "nahuatl": "ameyalli",
+      "espanol": "manantial",
+      "audio": "ameyalli.mp3"
+    },
+    {
+      "nahuatl": "tetl",
+      "espanol": "piedra",
+      "audio": "tetl.mp3"
+    },
+    {
+      "nahuatl": "quiahuitl",
+      "espanol": "lluvia",
+      "audio": "quiahuitl.mp3"
+    }
+  ]
+}

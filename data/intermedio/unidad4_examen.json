@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlapohualoyan'?",
+      "opciones": ["Casa", "Escuela", "Trabajo"],
+      "respuestaCorrecta": "Escuela"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'dentro de la casa'",
+      "respuestaCorrecta": "kaltikpak"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlamachilistli",
+      "audio": "tlamachilistli.mp3",
+      "opciones": ["Aprendizaje", "Enseñanza", "Estudio"],
+      "respuestaCorrecta": "Enseñanza"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlakatl pilli'?",
+      "opciones": ["Hombre adulto", "Joven", "Niño pequeño"],
+      "respuestaCorrecta": "Joven"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'mujer anciana'",
+      "respuestaCorrecta": "siwatl huehue"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikittaz tlen tlapohualoyan",
+      "audio": "nehuatl_nikittaz_tlen_tlapohualoyan.mp3",
+      "opciones": ["Yo veo la escuela", "Yo vi la escuela", "Yo veré la escuela"],
+      "respuestaCorrecta": "Yo veré la escuela"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kaltikpak'?",
+      "opciones": ["Fuera de la casa", "Dentro de la casa", "Cerca de la casa"],
+      "respuestaCorrecta": "Dentro de la casa"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'la enseñanza es buena'",
+      "respuestaCorrecta": "kuali ka tlamachilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlakatl pilli",
+      "audio": "tlakatl_pilli.mp3",
+      "opciones": ["Hombre adulto", "Joven", "Niño pequeño"],
+      "respuestaCorrecta": "Joven"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaz tlen kaltikpak'?",
+      "opciones": ["Yo veo dentro de la casa", "Yo vi dentro de la casa", "Yo veré dentro de la casa"],
+      "respuestaCorrecta": "Yo veré dentro de la casa"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'joven'",
+      "respuestaCorrecta": "tlakatl pilli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "siwatl huehue",
+      "audio": "siwatl_huehue.mp3",
+      "opciones": ["Mujer joven", "Mujer adulta", "Mujer anciana"],
+      "respuestaCorrecta": "Mujer anciana"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka tlamachilistli'?",
+      "opciones": ["La enseñanza es mala", "La enseñanza es buena", "La enseñanza es difícil"],
+      "respuestaCorrecta": "La enseñanza es buena"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'escuela'",
+      "respuestaCorrecta": "tlapohualoyan"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kaltikpak",
+      "audio": "kaltikpak.mp3",
+      "opciones": ["Fuera de la casa", "Dentro de la casa", "Cerca de la casa"],
+      "respuestaCorrecta": "Dentro de la casa"
+    }
+  ]
+}

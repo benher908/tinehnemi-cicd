@@ -1,0 +1,85 @@
+{
+  "titulo": "Expresiones de Cortesía",
+  "descripcion": "Aprenderás las palabras mágicas de la cortesía en náhuatl.",
+  "secciones": [
+    {
+      "titulo": "La palabra más importante",
+      "contenido": "Después de saber saludar, lo más importante es saber agradecer.",
+      "palabras": [
+        {
+          "nahuatl": "tlasohkamati",
+          "espanol": "gracias",
+          "ejemplo": "Tlasohkamati (Gracias)"
+        }
+      ]
+    },
+    {
+      "titulo": "Pidiendo con cortesía",
+      "contenido": "Para pedir algo de manera educada, usamos esta expresión:",
+      "palabras": [
+        {
+          "nahuatl": "se tlapalewili",
+          "espanol": "por favor",
+          "ejemplo": "Se tlapalewili (Por favor)"
+        }
+      ]
+    },
+    {
+      "titulo": "Cuando nos equivocamos",
+      "contenido": "Si cometemos un error o necesitamos disculparnos:",
+      "palabras": [
+        {
+          "nahuatl": "xitech tlapohpolwi",
+          "espanol": "disculpa/perdón",
+          "ejemplo": "Xitech tlapohpolwi (Disculpa)"
+        }
+      ]
+    },
+    {
+      "titulo": "Diálogo de cortesía",
+      "contenido": "Veamos cómo usar estas palabras juntas:",
+      "dialogo": [
+        {
+          "persona": "Ana",
+          "texto": "Se tlapalewili",
+          "traduccion": "Por favor"
+        },
+        {
+          "persona": "Pedro",
+          "texto": "¿Tlen?",
+          "traduccion": "¿Qué?"
+        },
+        {
+          "persona": "Ana",
+          "texto": "Tlasohkamati",
+          "traduccion": "Gracias"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "Ahora conoces las tres expresiones de cortesía más importantes:\n\n• tlasohkamati = gracias\n• se tlapalewili = por favor\n• xitech tlapohpolwi = disculpa\n\nCon estas palabras serás muy educado en náhuatl."
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Cortesía",
+    "instrucciones": "Selecciona la expresión correcta:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo dices 'gracias'?",
+        "opciones": ["Tlasohkamati", "Se tlapalewili", "Xitech tlapohpolwi"],
+        "respuestaCorrecta": "Tlasohkamati"
+      },
+      {
+        "pregunta": "Para pedir algo educadamente dices:",
+        "opciones": ["Tlasohkamati", "Se tlapalewili", "Nolti"],
+        "respuestaCorrecta": "Se tlapalewili"
+      },
+      {
+        "pregunta": "Si te equivocas, dices:",
+        "opciones": ["Xitech tlapohpolwi", "Tlasohkamati", "Tonalti"],
+        "respuestaCorrecta": "Xitech tlapohpolwi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'casa' en náhuatl?",
+      "opciones": ["kalli", "tetl", "atl"],
+      "respuestaCorrecta": "kalli"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'piedra' en náhuatl",
+      "respuestaCorrecta": "tetl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "atl",
+      "audio": "atl.mp3",
+      "opciones": ["casa", "piedra", "agua"],
+      "respuestaCorrecta": "agua"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'xochitl'?",
+      "opciones": ["canción", "flor", "mujer"],
+      "respuestaCorrecta": "flor"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'canción' al náhuatl",
+      "respuestaCorrecta": "kuikatl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlakatl",
+      "audio": "tlakatl.mp3",
+      "opciones": ["mujer", "hombre/persona", "canción"],
+      "respuestaCorrecta": "hombre/persona"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'mujer'?",
+      "opciones": ["siwatl", "tlakatl", "kuikatl"],
+      "respuestaCorrecta": "siwatl"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'flor' en náhuatl",
+      "respuestaCorrecta": "xochitl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kalli",
+      "audio": "kalli.mp3",
+      "opciones": ["casa", "piedra", "agua"],
+      "respuestaCorrecta": "casa"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tetl'?",
+      "opciones": ["agua", "piedra", "flor"],
+      "respuestaCorrecta": "piedra"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'agua' al náhuatl",
+      "respuestaCorrecta": "atl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "xochitl",
+      "audio": "xochitl.mp3",
+      "opciones": ["canción", "flor", "piedra"],
+      "respuestaCorrecta": "flor"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál de estos es un elemento natural?",
+      "opciones": ["atl", "kalli", "kuikatl"],
+      "respuestaCorrecta": "atl"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo se dice 'mujer' en náhuatl?",
+      "respuestaCorrecta": "siwatl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "siwatl",
+      "audio": "siwatl.mp3",
+      "opciones": ["hombre", "mujer", "niño"],
+      "respuestaCorrecta": "mujer"
+    }
+  ]
+}

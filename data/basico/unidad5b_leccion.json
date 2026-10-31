@@ -1,0 +1,61 @@
+{
+  "titulo": "Solo 'Árbol'",
+  "descripcion": "Los árboles que crecen en nuestra sierra.",
+  "secciones": [
+    {
+      "titulo": "Los gigantes verdes",
+      "contenido": "En los cerros de la Sierra Negra crecen muchos árboles. Esta es su palabra en náhuatl:",
+      "palabras": [
+        {
+          "nahuatl": "cuahuitl",
+          "espanol": "árbol",
+          "ejemplo": "Cuahuitl (Un árbol)"
+        }
+      ]
+    },
+    {
+      "titulo": "Describiendo nuestro paisaje",
+      "contenido": "Ahora puedes describir lo que ves en la sierra:",
+      "ejemplos": [
+        {
+          "nahuatl": "Tepetl",
+          "espanol": "Cerro"
+        },
+        {
+          "nahuatl": "Cuahuitl",
+          "espanol": "Árbol"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando la naturaleza",
+      "contenido": "Usa los números para contar lo que ves:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce cuahuitl",
+          "espanol": "Un árbol"
+        },
+        {
+          "nahuatl": "Ome cuahuitl",
+          "espanol": "Dos árboles"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Árbol",
+    "instrucciones": "Aprende sobre los árboles:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'árbol' en náhuatl?",
+        "opciones": ["Cuahuitl", "Tepetl", "Amatl"],
+        "respuestaCorrecta": "Cuahuitl"
+      },
+      {
+        "pregunta": "¿Qué ves en los cerros?",
+        "opciones": ["Cuahuitl", "Tlahkwiloli", "Ce"],
+        "respuestaCorrecta": "Cuahuitl"
+      }
+    ]
+  }
+}

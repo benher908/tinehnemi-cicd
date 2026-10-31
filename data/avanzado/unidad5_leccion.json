@@ -1,0 +1,55 @@
+{
+  "titulo": "Frases subordinadas",
+  "descripcion": "Aprenderás a construir frases subordinadas y el uso de conectores en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué función tiene 'tlen' en 'Nehuatl nikneki tlen nimitztlazohtla'?",
+      "opciones": ["Conector de cláusulas", "Artículo", "Adverbio"],
+      "respuestaCorrecta": "Conector de cláusulas"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen",
+      "audio": "amo_kuali_tlen.mp3",
+      "opciones": ["Es bueno que", "No es bueno que", "Es malo que"],
+      "respuestaCorrecta": "No es bueno que"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'se desea que se enseñe'",
+      "respuestaCorrecta": "moneki tlen tlamachihuaz"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'moneki'?",
+      "opciones": ["Se necesita", "Se desea que", "Se prohíbe"],
+      "respuestaCorrecta": "Se desea que"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "moneki tlen tlamachihuaz",
+      "audio": "moneki_tlen_tlamachihuaz.mp3",
+      "opciones": ["Se desea que se enseñe", "Se desea que se aprenda", "Se desea que se olvide"],
+      "respuestaCorrecta": "Se desea que se enseñe"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'quiero que te quiera'",
+      "respuestaCorrecta": "nehuatl nikneki tlen nimitztlazohtla"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué tipo de construcción es 'Amo kuali tlen nechkuika'?",
+      "opciones": ["Subordinada", "Coordinada", "Simple"],
+      "respuestaCorrecta": "Subordinada"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikneki tlen nimitztlazohtla",
+      "audio": "nikneki_tlen_nimitztlazohtla.mp3",
+      "opciones": ["Yo quiero que te quiera", "Tú quieres que te quiera", "Él quiere que te quiera"],
+      "respuestaCorrecta": "Yo quiero que te quiera"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlaxkal'?",
+      "opciones": ["Pan", "Tortilla", "Fruta"],
+      "respuestaCorrecta": "Tortilla"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'maíz'",
+      "respuestaCorrecta": "tlaolli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlami",
+      "audio": "tlami.mp3",
+      "opciones": ["Beber", "Comer", "Cocinar"],
+      "respuestaCorrecta": "Comer"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nechmaka'?",
+      "opciones": ["Te doy", "Me dio", "Le damos"],
+      "respuestaCorrecta": "Me dio"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'él/ella me dio maíz'",
+      "respuestaCorrecta": "yehua nechmaka tlaolli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tikneki kuali tlaxkal",
+      "audio": "tikneki_kuali_tlaxkal.mp3",
+      "opciones": ["Yo quiero una buena tortilla", "Tú quieres una buena tortilla", "Él quiere una buena tortilla"],
+      "respuestaCorrecta": "Tú quieres una buena tortilla"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué partícula significa 'a mí' en náhuatl?",
+      "opciones": ["nech", "tlen", "ika"],
+      "respuestaCorrecta": "nech"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'comer'",
+      "respuestaCorrecta": "tlami"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlaxkal",
+      "audio": "tlaxkal.mp3",
+      "opciones": ["Pan", "Tortilla", "Fruta"],
+      "respuestaCorrecta": "Tortilla"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlaolli'?",
+      "opciones": ["Frijol", "Maíz", "Chile"],
+      "respuestaCorrecta": "Maíz"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'tú quieres una buena tortilla'",
+      "respuestaCorrecta": "tikneki kuali tlaxkal"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nechmaka",
+      "audio": "nechmaka.mp3",
+      "opciones": ["Te doy", "Me dio", "Le damos"],
+      "respuestaCorrecta": "Me dio"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'yehua nechmaka tlaolli'?",
+      "opciones": ["Yo le di maíz", "Tú me das maíz", "Él/ella me dio maíz"],
+      "respuestaCorrecta": "Él/ella me dio maíz"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa: Yo ___ (comer)",
+      "respuestaCorrecta": "nitlami"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlaolli",
+      "audio": "tlaolli.mp3",
+      "opciones": ["Frijol", "Maíz", "Chile"],
+      "respuestaCorrecta": "Maíz"
+    }
+  ]
+}

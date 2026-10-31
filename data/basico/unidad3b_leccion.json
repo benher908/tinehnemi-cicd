@@ -1,0 +1,63 @@
+{
+  "titulo": "Solo 'Lápiz'",
+  "descripcion": "El instrumento para escribir: tu lápiz o pluma.",
+  "secciones": [
+    {
+      "titulo": "Para escribir necesitas...",
+      "contenido": "Ya tienes papel (amatl), ahora necesitas algo para escribir:",
+      "palabras": [
+        {
+          "nahuatl": "tlahkwiloli",
+          "espanol": "lápiz/pluma",
+          "ejemplo": "Tlahkwiloli (Un lápiz)"
+        }
+      ]
+    },
+    {
+      "titulo": "Repasando lo que tienes",
+      "contenido": "Ahora ya puedes nombrar dos objetos esenciales:",
+      "ejemplos": [
+        {
+          "nahuatl": "Amatl",
+          "espanol": "Hoja"
+        },
+        {
+          "nahuatl": "Tlahkwiloli",
+          "espanol": "Lápiz"
+        }
+      ]
+    },
+    {
+      "titulo": "Tu primer inventario",
+      "contenido": "Mira tu escritorio y nombra lo que ves:",
+      "ejemplos": [
+        {
+          "situacion": "Señalando una hoja",
+          "nahuatl": "Amatl",
+          "espanol": "Hoja"
+        },
+        {
+          "situacion": "Señalando un lápiz",
+          "nahuatl": "Tlahkwiloli",
+          "espanol": "Lápiz"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Lápiz",
+    "instrucciones": "Aprende tu segundo objeto:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'lápiz' en náhuatl?",
+        "opciones": ["Tlahkwiloli", "Amatl", "Nolti"],
+        "respuestaCorrecta": "Tlahkwiloli"
+      },
+      {
+        "pregunta": "¿Qué necesitas para escribir?",
+        "opciones": ["Amatl y tlahkwiloli", "Solo amatl", "Solo tlahkwiloli"],
+        "respuestaCorrecta": "Amatl y tlahkwiloli"
+      }
+    ]
+  }
+}

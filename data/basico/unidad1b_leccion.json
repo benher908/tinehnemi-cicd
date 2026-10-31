@@ -1,0 +1,55 @@
+{
+  "titulo": "Buenos Días",
+  "descripcion": "¡Ahora que ya sabes decir 'hola', vamos a aprender un saludo especial para las mañanas! Es como darle un toque mágico a tu día.",
+  "secciones": [
+    {
+      "titulo": "🌅 El saludo del amanecer",
+      "contenido": "Imagínate: el sol está saliendo, los pájaros cantan, y tú quieres saludar de una manera súper especial. Los nahuas de la Sierra Negra tienen una palabra perfecta para esto: 'tonalti'. Esta palabra es como decirle al mundo: '¡Qué hermoso día está comenzando!' Es más específica que 'nolti' porque celebra el momento exacto en que empieza un nuevo día.",
+      "palabras": [
+        {
+          "nahuatl": "tonalti",
+          "espanol": "buenos días",
+          "ejemplo": "Tonalti (Se pronuncia: to-NAL-ti, como 'tonal' + 'ti')"
+        }
+      ]
+    },
+    {
+      "titulo": "🤝 La combinación perfecta",
+      "contenido": "Aquí viene algo súper genial: ¡puedes combinar las dos palabras que ya conoces! Cuando dices 'Nolti, tonalti', es como si dijeras 'Hola, que tengas un día hermoso'. Es la forma más educada y cariñosa de saludar en la mañana. La gente se va a quedar impresionada de lo bien que hablas náhuatl.",
+      "ejemplos": [
+        {
+          "nahuatl": "Nolti, tonalti",
+          "espanol": "Hola, buenos días (¡súper educado!)"
+        },
+        {
+          "nahuatl": "Tonalti",
+          "espanol": "Buenos días (directo y amigable)"
+        }
+      ]
+    },
+    {
+      "titulo": "⏰ ¿Cuándo usar cada saludo?",
+      "contenido": "Piénsalo como si fueras un experto en saludos:\n\n🌟 'Nolti' = Tu comodín, funciona siempre\n🌅 'Tonalti' = Tu saludo especial de mañana (desde que sale el sol hasta el mediodía)\n✨ 'Nolti, tonalti' = Tu saludo VIP para impresionar\n\n¡Es como tener diferentes niveles de amabilidad!"
+    },
+    {
+      "titulo": "🏔️ Conexión con la Sierra Negra",
+      "contenido": "En los pueblos de la Sierra Negra, cuando el sol aparece entre las montañas, es común escuchar 'tonalti' por todas partes. Los abuelos lo dicen a los nietos, los vecinos se saludan así, y ahora tú también puedes ser parte de esta hermosa tradición matutina."
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Saludos matutinos",
+    "instrucciones": "¡Vamos a ver si ya eres un experto en saludos de mañana!",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'buenos días' en náhuatl?",
+        "opciones": ["Tonalti", "Nolti", "Tlasohkamati", "Tiotlakilti"],
+        "respuestaCorrecta": "Tonalti"
+      },
+      {
+        "pregunta": "¿Cuándo es perfecto usar 'tonalti'?",
+        "opciones": ["En la mañana", "En la tarde", "En la noche", "A cualquier hora"],
+        "respuestaCorrecta": "En la mañana"
+      }
+    ]
+  }
+}

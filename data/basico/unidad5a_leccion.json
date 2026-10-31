@@ -1,0 +1,58 @@
+{
+  "titulo": "Solo 'Cerro'",
+  "descripcion": "Aprende la palabra para las montañas que rodean la Sierra Negra.",
+  "secciones": [
+    {
+      "titulo": "Lo que vemos todos los días",
+      "contenido": "En la Sierra Negra de Puebla, estamos rodeados de cerros y montañas. Esta es la palabra más importante para nuestro paisaje:",
+      "palabras": [
+        {
+          "nahuatl": "tepetl",
+          "espanol": "cerro/montaña",
+          "ejemplo": "Tepetl (Un cerro)"
+        }
+      ]
+    },
+    {
+      "titulo": "Nuestro hogar",
+      "contenido": "La Sierra Negra es un conjunto de tepetl (cerros). Cuando miras por la ventana, puedes decir:",
+      "ejemplos": [
+        {
+          "situacion": "Viendo las montañas",
+          "nahuatl": "Tepetl",
+          "espanol": "Cerro"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando cerros",
+      "contenido": "Puedes usar los números que ya conoces:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce tepetl",
+          "espanol": "Un cerro"
+        },
+        {
+          "nahuatl": "Ome tepetl",
+          "espanol": "Dos cerros"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Cerro",
+    "instrucciones": "Aprende sobre tu paisaje:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'cerro' en náhuatl?",
+        "opciones": ["Tepetl", "Amatl", "Ce"],
+        "respuestaCorrecta": "Tepetl"
+      },
+      {
+        "pregunta": "¿Cómo dices 'dos cerros'?",
+        "opciones": ["Ome tepetl", "Ce tepetl", "Tepetl ome"],
+        "respuestaCorrecta": "Ome tepetl"
+      }
+    ]
+  }
+}

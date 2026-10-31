@@ -1,0 +1,55 @@
+{
+  "titulo": "Diálogos y preguntas comunes",
+  "descripcion": "Aprenderás a mantener conversaciones básicas en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlen tikitta?'?",
+      "opciones": ["¿Qué ves?", "¿Qué quieres?", "¿Dónde estás?"],
+      "respuestaCorrecta": "¿Qué ves?"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlen tikneki",
+      "audio": "tlen_tikneki.mp3",
+      "opciones": ["¿Qué ves?", "¿Qué quieres?", "¿Dónde estás?"],
+      "respuestaCorrecta": "¿Qué quieres?"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo responderías a 'tlen tikitta?' si ves un pez?",
+      "respuestaCorrecta": "nikitta michin"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka'?",
+      "opciones": ["Está mal", "Está bien", "Está lejos"],
+      "respuestaCorrecta": "Está bien"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "kuali ka tlamachilistli",
+      "audio": "kuali_ka_tlamachilistli.mp3",
+      "opciones": ["La enseñanza es mala", "La enseñanza es buena", "La enseñanza es difícil"],
+      "respuestaCorrecta": "La enseñanza es buena"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo responderías a 'tlen tikneki?' si quieres agua?",
+      "respuestaCorrecta": "nikneki atl"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'kuali ka tlatskanilistli'?",
+      "opciones": ["Buena es la llegada", "Buena es la despedida", "Buena es la comida"],
+      "respuestaCorrecta": "Buena es la despedida"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlen motoka",
+      "audio": "tlen_motoka.mp3",
+      "opciones": ["¿Cómo te llamas?", "¿Dónde vives?", "¿Qué quieres?"],
+      "respuestaCorrecta": "¿Cómo te llamas?"
+    }
+  ]
+}

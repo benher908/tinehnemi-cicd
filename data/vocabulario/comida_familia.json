@@ -1,0 +1,50 @@
+{
+  "categoria": "Comida y familia",
+  "palabras": [
+    {
+      "nahuatl": "tata",
+      "espanol": "papá",
+      "audio": "totatzin.mp3"
+    },
+    {
+      "nahuatl": "welti",
+      "espanol": "hermana",
+      "audio": "welti.mp3"
+    },
+    {
+      "nahuatl": "nana",
+      "espanol": "mamá",
+      "audio": "nantzin.mp3"
+    },
+    {
+      "nahuatl": "xokoyolt",
+      "espanol": "el menor de la familia",
+      "audio": "xokoyolt.mp3"
+    },
+    {
+      "nahuatl": "iknimeh",
+      "espanol": "hermanos",
+      "audio": "iknimeh.mp3"
+    },
+    {
+      "nahuatl": "kohkolti",
+      "espanol": "abuelos",
+      "audio": "kohkolti.mp3"
+    },
+    {
+      "nahuatl": "tlaskali",
+      "espanol": "tortilla",
+      "audio": "tlaxkal.mp3"
+    },
+    {
+      "nahuatl": "tlelloli",
+      "espanol": "maíz",
+      "audio": "tlaolli.mp3"
+    },
+    {
+      "nahuatl": "Tlakwa",
+      "espanol": "comer",
+      "audio": "Tlakwa.mp3"
+    }
+  ]
+}

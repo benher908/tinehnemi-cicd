@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "unidad": "generico",
+    "nivel": "basico",
+    "objetivos": [
+      "Evaluar conocimientos básicos de náhuatl",
+      "Verificar comprensión de vocabulario",
+      "Comprobar habilidades de traducción"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hola' en náhuatl?",
+      "opciones": ["Nolti", "Tlasohkamati", "Tonalti", "Tiotlakilti"],
+      "respuestaCorrecta": "Nolti",
+      "explicacion": "'Nolti' es el saludo universal en náhuatl que puedes usar en cualquier momento."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlasohkamati'?",
+      "opciones": ["Gracias", "Hola", "Por favor", "Adiós"],
+      "respuestaCorrecta": "Gracias",
+      "explicacion": "'Tlasohkamati' es la forma de agradecer en náhuatl, muy importante en la cultura."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'papel' en náhuatl?",
+      "opciones": ["Amatl", "Tlahkwiloli", "Tepetl", "Cuahuitl"],
+      "respuestaCorrecta": "Amatl",
+      "explicacion": "'Amatl' significa papel u hoja, palabra que viene de los antiguos códices."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'se tlapalewili'?",
+      "opciones": ["Por favor", "Gracias", "Hola", "Buenos días"],
+      "respuestaCorrecta": "Por favor",
+      "explicacion": "'Se tlapalewili' es la forma educada de pedir algo en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'uno' en náhuatl?",
+      "opciones": ["Ce", "Ome", "Yei", "Nahui"],
+      "respuestaCorrecta": "Ce",
+      "explicacion": "'Ce' significa 'uno' en náhuatl, el primer número que aprendes."
+    }
+  ]
+}

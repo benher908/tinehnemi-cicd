@@ -1,0 +1,12 @@
+{
+  "categoria": "Partes del cuerpo",
+  "palabras": [
+    { "nahuatl": "Tsontegon", "espanol": "cabeza",     "audio": "Tsontegon.mp3" },
+    { "nahuatl": "Mawan",     "espanol": "mano",       "audio": "Mawan.mp3" },
+    { "nahuatl": "Istelolo",  "espanol": "ojo",        "audio": "Istelolo.mp3" },
+    { "nahuatl": "nacatl",    "espanol": "cuerpo",     "audio": "nacatl.mp3" },
+    { "nahuatl": "Kostle",    "espanol": "pie",        "audio": "Kostle.mp3" },
+    { "nahuatl": "ekahtsol",  "espanol": "nariz",      "audio": "ekahtsol.mp3" },
+    { "nahuatl": "ixkwate",   "espanol": "cara/frete", "audio": "ixkwate.mp3" }
+  ]
+}

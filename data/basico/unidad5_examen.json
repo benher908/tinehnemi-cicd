@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'perro' en náhuatl?",
+      "opciones": ["itzcuintli", "miztli", "toch"],
+      "respuestaCorrecta": "itzcuintli"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'gato' en náhuatl",
+      "respuestaCorrecta": "miztli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "toch",
+      "audio": "toch.mp3",
+      "opciones": ["perro", "gato", "conejo"],
+      "respuestaCorrecta": "conejo"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué animal es 'michin'?",
+      "opciones": ["serpiente", "pez", "búho"],
+      "respuestaCorrecta": "pez"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'serpiente' al náhuatl",
+      "respuestaCorrecta": "koatl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tzopilotl",
+      "audio": "tzopilotl.mp3",
+      "opciones": ["búho", "zopilote", "ardilla"],
+      "respuestaCorrecta": "zopilote"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'búho'?",
+      "opciones": ["tecolotl", "kualtzin", "tzopilotl"],
+      "respuestaCorrecta": "tecolotl"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Escribe 'ardilla' en náhuatl",
+      "respuestaCorrecta": "kualtzin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "itzcuintli",
+      "audio": "itzcuintli.mp3",
+      "opciones": ["perro", "gato", "conejo"],
+      "respuestaCorrecta": "perro"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué animal es 'kualtzin'?",
+      "opciones": ["zopilote", "ardilla", "serpiente"],
+      "respuestaCorrecta": "ardilla"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce 'pez' al náhuatl",
+      "respuestaCorrecta": "michin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tecolotl",
+      "audio": "tecolotl.mp3",
+      "opciones": ["zopilote", "búho", "serpiente"],
+      "respuestaCorrecta": "búho"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál de estos es un animal doméstico?",
+      "opciones": ["itzcuintli", "tzopilotl", "koatl"],
+      "respuestaCorrecta": "itzcuintli"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "¿Cómo se dice 'conejo' en náhuatl?",
+      "respuestaCorrecta": "toch"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "koatl",
+      "audio": "koatl.mp3",
+      "opciones": ["pez", "serpiente", "búho"],
+      "respuestaCorrecta": "serpiente"
+    }
+  ]
+}

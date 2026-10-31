@@ -1,0 +1,86 @@
+{
+  "titulo": "Presente y pasado",
+  "descripcion": "Aprenderás a conjugar verbos en presente y pasado en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikitta'?",
+      "opciones": [
+        "Yo veo",
+        "Tú ves",
+        "Él ve"
+      ],
+      "respuestaCorrecta": "Yo veo"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tikitta'?",
+      "opciones": [
+        "Yo veo",
+        "Tú ves",
+        "Él ve"
+      ],
+      "respuestaCorrecta": "Tú ves"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'él/ella ve' en náhuatl?",
+      "opciones": [
+        "yokitta",
+        "nikitta",
+        "tikitta"
+      ],
+      "respuestaCorrecta": "yokitta"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaya'?",
+      "opciones": [
+        "Yo veo",
+        "Yo vi",
+        "Yo veré"
+      ],
+      "respuestaCorrecta": "Yo vi"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikneki'?",
+      "opciones": [
+        "Yo quiero",
+        "Tú quieres",
+        "Él quiere"
+      ],
+      "respuestaCorrecta": "Yo quiero"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'tú quieres' en náhuatl?",
+      "opciones": [
+        "tikneki",
+        "nikneki",
+        "yokneki"
+      ],
+      "respuestaCorrecta": "tikneki"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikitta tlen kalli'?",
+      "opciones": [
+        "Yo veo la casa",
+        "Tú ves la casa",
+        "Yo vi la casa"
+      ],
+      "respuestaCorrecta": "Yo veo la casa"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nikittaya tlen michin'?",
+      "opciones": [
+        "Yo veo el pez",
+        "Yo vi el pez",
+        "Yo veré el pez"
+      ],
+      "respuestaCorrecta": "Yo vi el pez"
+    }
+  ]
+}

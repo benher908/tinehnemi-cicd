@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Tlamantli tlen kualtsitsin nechmaka'?",
+      "opciones": ["Mis abuelos me pegaron", "Los ancestros me dieron cosas", "Estoy solo"],
+      "respuestaCorrecta": "Los ancestros me dieron cosas"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'va como por el cerro (camino difícil pero seguro)'",
+      "respuestaCorrecta": "zan yohui ika tepetl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "amo kuali tlen moneki",
+      "audio": "amo_kuali_tlen_moneki.mp3",
+      "opciones": ["No es bueno lo que se desea (crítica indirecta)", "Es bueno lo que se desea", "No es malo lo que se desea"],
+      "respuestaCorrecta": "No es bueno lo que se desea (crítica indirecta)"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Axkan tonatiuh ika kuali tlamachilistli, nechmaka nemilistli'?",
+      "opciones": ["Hoy el sol con buena enseñanza me da vida", "Hoy el sol con mala enseñanza me quita vida", "Hoy la luna con buena enseñanza me da vida"],
+      "respuestaCorrecta": "Hoy el sol con buena enseñanza me da vida"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Interpreta: 'Zan yohui ika tepetl'",
+      "respuestaCorrecta": "Va como por el cerro (camino difícil pero seguro)"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlen kuali tlen nemilistli, kuali ka tlen tikmatika tlamantli tlen totatzin kualtsitsin",
+      "audio": "tlen_kuali_tlen_nemilistli.mp3",
+      "opciones": ["Lo bueno de la vida es saber lo que nuestros padres y abuelos nos enseñaron", "Lo malo de la vida es olvidar lo que nuestros padres y abuelos nos enseñaron", "Lo bueno de la vida es ignorar lo que nuestros padres y abuelos nos enseñaron"],
+      "respuestaCorrecta": "Lo bueno de la vida es saber lo que nuestros padres y abuelos nos enseñaron"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Amo kuali tlen moneki'?",
+      "opciones": ["No es bueno lo que se desea (crítica indirecta)", "Es bueno lo que se desea", "No es malo lo que se desea"],
+      "respuestaCorrecta": "No es bueno lo que se desea (crítica indirecta)"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'hoy el sol con buena enseñanza me da vida'",
+      "respuestaCorrecta": "axkan tonatiuh ika kuali tlamachilistli, nechmaka nemilistli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "zan yohui ika tepetl",
+      "audio": "zan_yohui_ika_tepetl.mp3",
+      "opciones": ["Va como por el cerro (camino difícil pero seguro)", "Va como por el río (camino fácil)", "Va como por el bosque (camino peligroso)"],
+      "respuestaCorrecta": "Va como por el cerro (camino difícil pero seguro)"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'Tlen kuali tlen nemilistli'?",
+      "opciones": ["Lo bueno de la vida", "Lo malo de la vida", "Lo difícil de la vida"],
+      "respuestaCorrecta": "Lo bueno de la vida"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Interpreta: 'Tlamantli tlen kualtsitsin nechmaka'",
+      "respuestaCorrecta": "Los ancestros me dieron cosas"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "axkan tonatiuh ika kuali tlamachilistli, nechmaka nemilistli",
+      "audio": "axkan_tonatiuh_ika_kuali_tlamachilistli.mp3",
+      "opciones": ["Hoy el sol con buena enseñanza me da vida", "Hoy el sol con mala enseñanza me quita vida", "Hoy la luna con buena enseñanza me da vida"],
+      "respuestaCorrecta": "Hoy el sol con buena enseñanza me da vida"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué expresión proverbial significa 'crítica indirecta'?",
+      "opciones": ["Zan yohui ika tepetl", "Amo kuali tlen moneki", "Axkan tonatiuh ika kuali tlamachilistli"],
+      "respuestaCorrecta": "Amo kuali tlen moneki"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'lo bueno de la vida es saber lo que nuestros padres y abuelos nos enseñaron'",
+      "respuestaCorrecta": "tlen kuali tlen nemilistli, kuali ka tlen tikmatika tlamantli tlen totatzin kualtsitsin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlamantli tlen kualtsitsin nechmaka",
+      "audio": "tlamantli_tlen_kualtsitsin.mp3",
+      "opciones": ["Mis abuelos me pegaron", "Los ancestros me dieron cosas", "Estoy solo"],
+      "respuestaCorrecta": "Los ancestros me dieron cosas"
+    }
+  ]
+}

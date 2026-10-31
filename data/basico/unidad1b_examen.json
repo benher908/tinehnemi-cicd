@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Buenos Días",
+  "descripcion": "Demuestra que sabes saludar en la mañana",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'buenos días' en náhuatl?",
+      "opciones": ["Tonalti", "Nolti", "Tiotlakilti", "Tlasohkamati"],
+      "respuestaCorrecta": "Tonalti",
+      "explicacion": "'Tonalti' es el saludo específico para cuando el sol está saliendo y comienza un nuevo día."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "Son las 8 de la mañana y ves a tu maestro. ¿Qué le dices?",
+      "opciones": ["Tonalti", "Tiotlakilti", "Solo nolti", "Tlasohkamati"],
+      "respuestaCorrecta": "Tonalti",
+      "explicacion": "En la mañana, especialmente hasta el mediodía, usamos 'tonalti' para ser más específicos y educados."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es la forma más educada de saludar en la mañana?",
+      "opciones": ["Nolti, tonalti", "Solo tonalti", "Solo nolti", "Tlasohkamati"],
+      "respuestaCorrecta": "Nolti, tonalti",
+      "explicacion": "Combinar 'nolti' (hola) con 'tonalti' (buenos días) muestra mucha educación y respeto."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 10,
+    "insignia": "Madrugador",
+    "mensaje": "¡Perfecto! Ya sabes saludar en la mañana. 🌅"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "unidad": "unidad8",
+    "nivel": "basico",
+    "objetivos": [
+      "Evaluar conocimiento de números 6-10",
+      "Verificar comprensión de conteo avanzado",
+      "Comprobar habilidades de secuencias numéricas"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'seis' en náhuatl?",
+      "opciones": ["Chikuase", "Makuilli", "Chikome", "Chikuei"],
+      "respuestaCorrecta": "Chikuase",
+      "explicacion": "'Chikuase' significa 'seis' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'siete' en náhuatl?",
+      "opciones": ["Chikome", "Chikuase", "Chikuei", "Chiknawi"],
+      "respuestaCorrecta": "Chikome",
+      "explicacion": "'Chikome' significa 'siete' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'ocho' en náhuatl?",
+      "opciones": ["Chikuei", "Chikome", "Chiknawi", "Mahtlaktli"],
+      "respuestaCorrecta": "Chikuei",
+      "explicacion": "'Chikuei' significa 'ocho' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'nueve' en náhuatl?",
+      "opciones": ["Chiknawi", "Chikuei", "Mahtlaktli", "Chikome"],
+      "respuestaCorrecta": "Chiknawi",
+      "explicacion": "'Chiknawi' significa 'nueve' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'diez' en náhuatl?",
+      "opciones": ["Mahtlaktli", "Chiknawi", "Chikuei", "Chikome"],
+      "respuestaCorrecta": "Mahtlaktli",
+      "explicacion": "'Mahtlaktli' significa 'diez' en náhuatl."
+    }
+  ]
+}

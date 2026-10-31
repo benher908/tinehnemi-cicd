@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "unidad": "Verbos Básicos y Conjugación Presente",
+    "nivel": "basico",
+    "objetivos": [
+      "Conjugar verbos básicos en presente",
+      "Usar pronombres personales correctamente",
+      "Aplicar verbos en frases de interacción"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'yo escribo' en náhuatl?",
+      "opciones": ["neh nitlahkwiloa", "teh titlahkwiloa", "yehwa tlahkwiloa"],
+      "respuestaCorrecta": "neh nitlahkwiloa",
+      "explicacion": "La primera persona singular usa el pronombre 'neh' y el prefijo 'ni-'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'teh titlahkwiloa'?",
+      "opciones": ["Yo escribo", "Tú escribes", "Él/ella escribe"],
+      "respuestaCorrecta": "Tú escribes",
+      "explicacion": "La segunda persona singular usa 'teh' y el prefijo 'ti-'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'él/ella escribe' en náhuatl?",
+      "opciones": ["nitlahkwiloa", "titlahkwiloa", "yehwa tlahkwiloa"],
+      "respuestaCorrecta": "yehwa tlahkwiloa",
+      "explicacion": "La tercera persona singular usa 'yehwa' sin prefijo en el verbo."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué verbo significa 'comer'?",
+      "opciones": ["tlahkwiloa", "tlacua", "tekiti"],
+      "respuestaCorrecta": "tlacua",
+      "explicacion": "Tlacua es el verbo básico para la acción de comer."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'nosotros trabajamos' en náhuatl?",
+      "opciones": ["neh nitekiti", "tehwan titekiti", "yekwan tekiti"],
+      "respuestaCorrecta": "tehwan titekiti",
+      "explicacion": "La primera persona plural usa 'tehwan' y el prefijo 'ti-'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlamachti'?",
+      "opciones": ["Escribir", "Estudiar/enseñar", "Cocinar"],
+      "respuestaCorrecta": "Estudiar/enseñar",
+      "explicacion": "Tlamachti puede significar tanto estudiar como enseñar, dependiendo del contexto."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice '¿te puedo ayudar?' en náhuatl?",
+      "opciones": ["xinech kwalika", "hwelis nimitzpalehwis?", "ma tihchiwakaj"],
+      "respuestaCorrecta": "hwelis nimitzpalehwis?",
+      "explicacion": "Esta es la frase estándar para ofrecer ayuda a alguien."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'xinech kwalika'?",
+      "opciones": ["¿Te puedo ayudar?", "Tráeme", "Vamos a hacer"],
+      "respuestaCorrecta": "Tráeme",
+      "explicacion": "Xinech kwalika es una petición para que alguien traiga algo al hablante."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'vamos a hacer' en náhuatl?",
+      "opciones": ["hwelis nimitzpalehwis", "xinech kwalika", "ma tihchiwakaj"],
+      "respuestaCorrecta": "ma tihchiwakaj",
+      "explicacion": "Ma tihchiwakaj es una invitación a realizar una acción juntos."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuál es el prefijo para 'yo' en los verbos?",
+      "opciones": ["ni-", "ti-", "an-"],
+      "respuestaCorrecta": "ni-",
+      "explicacion": "El prefijo 'ni-' se usa para la primera persona singular (yo)."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'Yo como comida' en náhuatl?",
+      "opciones": ["neh nitlacua tlācuāni", "teh titlacua tlācuāni", "yehwa tlacua tlācuāni"],
+      "respuestaCorrecta": "neh nitlacua tlācuāni",
+      "explicacion": "La conjugación correcta para 'yo como' es 'neh nitlacua'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'ustedes escriben' en náhuatl?",
+      "opciones": ["tehwan titlahkwiloa", "omekwan antlahkwiloa", "yekwan tlahkwiloa"],
+      "respuestaCorrecta": "omekwan antlahkwiloa",
+      "explicacion": "La segunda persona plural usa 'omekwan' y el prefijo 'an-'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'cualtia'?",
+      "opciones": ["Trabajar", "Estudiar", "Cocinar"],
+      "respuestaCorrecta": "Cocinar",
+      "explicacion": "Cualtia es el verbo para la acción de cocinar o preparar alimentos."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'Tú trabajas' en náhuatl?",
+      "opciones": ["neh nitekiti", "teh titekiti", "yehwa tekiti"],
+      "respuestaCorrecta": "teh titekiti",
+      "explicacion": "La traducción correcta usa el pronombre 'teh' y la conjugación 'titekiti'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'Nosotros escribimos en la hoja' en náhuatl?",
+      "opciones": ["neh nitlahkwiloa ipan amatl", "tehwan titlahkwiloa ipan amatl", "yekwan tlahkwiloa ipan amatl"],
+      "respuestaCorrecta": "tehwan titlahkwiloa ipan amatl",
+      "explicacion": "La primera persona plural completa es 'tehwan titlahkwiloa'."
+    }
+  ]
+}

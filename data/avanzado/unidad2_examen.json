@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlaltikpak'?",
+      "opciones": ["Bajo la tierra", "Sobre la tierra", "Dentro de la tierra"],
+      "respuestaCorrecta": "Sobre la tierra"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'sol'",
+      "respuestaCorrecta": "tonatiuh"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "metztli",
+      "audio": "metztli.mp3",
+      "opciones": ["Sol", "Luna", "Estrella"],
+      "respuestaCorrecta": "Luna"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlakatl teotl'?",
+      "opciones": ["Hombre común", "Hombre dios / sacerdote", "Hombre sabio"],
+      "respuestaCorrecta": "Hombre dios / sacerdote"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'cerro'",
+      "respuestaCorrecta": "tepetl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "atl tlakatl",
+      "audio": "atl_tlakatl.mp3",
+      "opciones": ["Hombre de fuego", "Hombre del agua", "Hombre de tierra"],
+      "respuestaCorrecta": "Hombre del agua"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlachinolli'?",
+      "opciones": ["Paz eterna", "Guerra sagrada / dualidad fuego y agua", "Fiesta ritual"],
+      "respuestaCorrecta": "Guerra sagrada / dualidad fuego y agua"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'sobre la tierra'",
+      "respuestaCorrecta": "tlaltikpak"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tonatiuh",
+      "audio": "tonatiuh.mp3",
+      "opciones": ["Luna", "Sol", "Estrella"],
+      "respuestaCorrecta": "Sol"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué elemento natural es 'tepetl'?",
+      "opciones": ["Río", "Cerro", "Bosque"],
+      "respuestaCorrecta": "Cerro"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'hombre dios / sacerdote'",
+      "respuestaCorrecta": "tlakatl teotl"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tepetl",
+      "audio": "tepetl.mp3",
+      "opciones": ["Río", "Cerro", "Bosque"],
+      "respuestaCorrecta": "Cerro"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué concepto representa 'tlachinolli'?",
+      "opciones": ["Armonía", "Guerra sagrada / dualidad", "Celebración"],
+      "respuestaCorrecta": "Guerra sagrada / dualidad"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'guerra sagrada / dualidad fuego y agua'",
+      "respuestaCorrecta": "tlachinolli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tlachinolli",
+      "audio": "tlachinolli.mp3",
+      "opciones": ["Paz eterna", "Guerra sagrada", "Fiesta ritual"],
+      "respuestaCorrecta": "Guerra sagrada"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "unidad": "unidad10",
+    "nivel": "basico",
+    "objetivos": [
+      "Evaluar conocimiento de términos familiares",
+      "Verificar comprensión de relaciones familiares",
+      "Comprobar habilidades de identificación familiar"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'madre' en náhuatl?",
+      "opciones": ["Nantli", "Tahtli", "Ichpotli", "Telpochtli"],
+      "respuestaCorrecta": "Nantli",
+      "explicacion": "'Nantli' significa 'madre' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'padre' en náhuatl?",
+      "opciones": ["Tahtli", "Nantli", "Ichpotli", "Telpochtli"],
+      "respuestaCorrecta": "Tahtli",
+      "explicacion": "'Tahtli' significa 'padre' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hija' en náhuatl?",
+      "opciones": ["Ichpotli", "Telpochtli", "Nantli", "Tahtli"],
+      "respuestaCorrecta": "Ichpotli",
+      "explicacion": "'Ichpotli' significa 'hija' en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hijo' en náhuatl?",
+      "opciones": ["Telpochtli", "Ichpotli", "Nantli", "Tahtli"],
+      "respuestaCorrecta": "Telpochtli",
+      "explicacion": "'Telpochtli' significa 'hijo' en náhuatl."
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Mi ___ y mi ___ son mis padres",
+      "respuestaCorrecta": "tahtli nantli",
+      "explicacion": "'Tahtli' (padre) y 'nantli' (madre) son los padres."
+    }
+  ]
+}

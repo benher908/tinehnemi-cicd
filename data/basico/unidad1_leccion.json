@@ -1,0 +1,79 @@
+{
+  "titulo": "Primeros Saludos",
+  "descripcion": "Aprenderás los saludos más básicos en náhuatl de la Sierra Negra.",
+  "secciones": [
+    {
+      "titulo": "El saludo universal",
+      "contenido": "Empezaremos con la palabra más importante: el saludo básico que puedes usar en cualquier momento del día.",
+      "palabras": [
+        {
+          "nahuatl": "nolti",
+          "espanol": "hola",
+          "ejemplo": "Nolti (Hola)"
+        }
+      ]
+    },
+    {
+      "titulo": "Saludos según el momento",
+      "contenido": "En náhuatl, como en español, tenemos saludos específicos para diferentes momentos del día.",
+      "palabras": [
+        {
+          "nahuatl": "tonalti",
+          "espanol": "buenos días",
+          "ejemplo": "Nolti, tonalti (Hola, buenos días)"
+        },
+        {
+          "nahuatl": "tiotlakilti",
+          "espanol": "buenas tardes",
+          "ejemplo": "Nolti, tiotlakilti (Hola, buenas tardes)"
+        }
+      ]
+    },
+    {
+      "titulo": "Mi primer diálogo",
+      "contenido": "Practiquemos con un diálogo muy simple:",
+      "dialogo": [
+        {
+          "persona": "Ana",
+          "texto": "Nolti",
+          "traduccion": "Hola"
+        },
+        {
+          "persona": "Pedro",
+          "texto": "Nolti, tonalti",
+          "traduccion": "Hola, buenos días"
+        },
+        {
+          "persona": "Ana",
+          "texto": "Tonalti",
+          "traduccion": "Buenos días"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "¡Felicidades! Has aprendido tus primeras palabras en náhuatl:\n\n• nolti = hola\n• tonalti = buenos días\n• tiotlakilti = buenas tardes\n\nCon estas tres palabras ya puedes saludar a cualquier persona."
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Primeros Saludos",
+    "instrucciones": "Selecciona la respuesta correcta:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'hola' en náhuatl?",
+        "opciones": ["Nolti", "Tonalti", "Tiotlakilti"],
+        "respuestaCorrecta": "Nolti"
+      },
+      {
+        "pregunta": "¿Qué significa 'tonalti'?",
+        "opciones": ["Hola", "Buenos días", "Buenas tardes"],
+        "respuestaCorrecta": "Buenos días"
+      },
+      {
+        "pregunta": "¿Cuál usarías en la tarde?",
+        "opciones": ["Tonalti", "Tiotlakilti", "Nolti"],
+        "respuestaCorrecta": "Tiotlakilti"
+      }
+    ]
+  }
+}

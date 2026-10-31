@@ -1,0 +1,55 @@
+{
+  "titulo": "Cosmovisión y naturaleza",
+  "descripcion": "Aprenderás sobre elementos naturales y cosmogonía en náhuatl.",
+  "ejercicios": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlaltikpak'?",
+      "opciones": ["Bajo la tierra", "Sobre la tierra", "Dentro de la tierra"],
+      "respuestaCorrecta": "Sobre la tierra"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tonatiuh",
+      "audio": "tonatiuh.mp3",
+      "opciones": ["Luna", "Sol", "Estrella"],
+      "respuestaCorrecta": "Sol"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'luna'",
+      "respuestaCorrecta": "metztli"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlakatl teotl'?",
+      "opciones": ["Hombre común", "Hombre dios / sacerdote", "Hombre sabio"],
+      "respuestaCorrecta": "Hombre dios / sacerdote"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "tepetl",
+      "audio": "tepetl.mp3",
+      "opciones": ["Río", "Cerro", "Bosque"],
+      "respuestaCorrecta": "Cerro"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'hombre del agua'",
+      "respuestaCorrecta": "atl tlakatl"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlachinolli'?",
+      "opciones": ["Paz eterna", "Guerra sagrada / dualidad fuego y agua", "Fiesta ritual"],
+      "respuestaCorrecta": "Guerra sagrada / dualidad fuego y agua"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "metztli",
+      "audio": "metztli.mp3",
+      "opciones": ["Sol", "Luna", "Estrella"],
+      "respuestaCorrecta": "Luna"
+    }
+  ]
+}

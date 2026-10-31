@@ -1,0 +1,94 @@
+{
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'totatzin'?",
+      "opciones": ["Madre", "Padre", "Hijo"],
+      "respuestaCorrecta": "Padre"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'madre'",
+      "respuestaCorrecta": "nantzin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nopiltzin",
+      "audio": "nopiltzin.mp3",
+      "opciones": ["Mi padre", "Mi madre", "Mi hijo/hija"],
+      "respuestaCorrecta": "Mi hijo/hija"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nonantli'?",
+      "opciones": ["Mi padre", "Mi madre (forma reverente)", "Mi hijo"],
+      "respuestaCorrecta": "Mi madre (forma reverente)"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'con'",
+      "respuestaCorrecta": "ika"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nehuatl nikneki ika totatzin",
+      "audio": "nehuatl_nikneki_ika_totatzin.mp3",
+      "opciones": ["Yo quiero a mi padre", "Yo quiero estar con mi padre", "Mi padre me quiere"],
+      "respuestaCorrecta": "Yo quiero estar con mi padre"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué prefijo se usa para 'mi' en náhuatl?",
+      "opciones": ["no-", "mo-", "i-"],
+      "respuestaCorrecta": "no-"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'yo quiero estar con mi hijo'",
+      "respuestaCorrecta": "nehuatl nikneki ika nopiltzin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nantzin",
+      "audio": "nantzin.mp3",
+      "opciones": ["Padre", "Madre", "Hijo"],
+      "respuestaCorrecta": "Madre"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'ika'?",
+      "opciones": ["Con", "Para", "De"],
+      "respuestaCorrecta": "Con"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Traduce: 'mi madre'",
+      "respuestaCorrecta": "nonantli"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "totatzin",
+      "audio": "totatzin.mp3",
+      "opciones": ["Padre", "Madre", "Hijo"],
+      "respuestaCorrecta": "Padre"
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nehuatl nikittaya ika nantzin'?",
+      "opciones": ["Yo veo a mi madre", "Yo vi con mi madre", "Yo veré a mi madre"],
+      "respuestaCorrecta": "Yo vi con mi madre"
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Completa: Mi ___ (padre)",
+      "respuestaCorrecta": "totatzin"
+    },
+    {
+      "tipo": "audio-opcion",
+      "palabra": "nonantli",
+      "audio": "nonantli.mp3",
+      "opciones": ["Mi padre", "Mi madre (forma reverente)", "Mi hijo"],
+      "respuestaCorrecta": "Mi madre (forma reverente)"
+    }
+  ]
+}

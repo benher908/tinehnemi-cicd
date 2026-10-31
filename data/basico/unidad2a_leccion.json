@@ -1,0 +1,69 @@
+{
+  "titulo": "Solo 'Gracias'",
+  "descripcion": "¡Prepárate para aprender la palabra más poderosa del mundo! Es la que hace que las personas sonrían y se sientan valoradas.",
+  "secciones": [
+    {
+      "titulo": "💎 La palabra más valiosa",
+      "contenido": "Si 'nolti' abre puertas, 'tlasohkamati' abre corazones. Esta palabra es como un abrazo en forma de sonido. Cuando la dices, le estás diciendo a alguien: 'Lo que hiciste por mí es importante y lo valoro mucho'. En náhuatl, agradecer no es solo educación, ¡es un arte! Los antiguos nahuas creían que dar las gracias creaba un círculo de energía positiva.",
+      "palabras": [
+        {
+          "nahuatl": "tlasohkamati",
+          "espanol": "gracias",
+          "ejemplo": "Tlasohkamati (Se pronuncia: tla-so-ka-MA-ti, como 'tla-so-ka-mati')"
+        }
+      ]
+    },
+    {
+      "titulo": "🌈 ¿Cuándo usar esta magia?",
+      "contenido": "'Tlasohkamati' es tu varita mágica para cualquier momento en que alguien sea amable contigo. ¿Te prestaron un lápiz? ¡Tlasohkamati! ¿Te explicaron algo que no entendías? ¡Tlasohkamati! ¿Alguien te sonrió? ¡También tlasohkamati! Es como tener un superpoder que hace que las personas se sientan especiales y quieran seguir siendo amables.",
+      "ejemplos": [
+        {
+          "nahuatl": "Tlasohkamati",
+          "espanol": "Gracias (cuando te prestan algo)"
+        },
+        {
+          "nahuatl": "Tlasohkamati",
+          "espanol": "Gracias (cuando te ayudan con la tarea)"
+        },
+        {
+          "nahuatl": "Tlasohkamati",
+          "espanol": "Gracias (cuando alguien es amable contigo)"
+        }
+      ]
+    },
+    {
+      "titulo": "✨ Combinaciones súper geniales",
+      "contenido": "¡Aquí viene lo emocionante! Puedes combinar 'tlasohkamati' con los saludos que ya conoces para crear frases súper educadas. Es como ser un chef de palabras, mezclando ingredientes para crear algo delicioso. Cuando combinas palabras en náhuatl, demuestras que realmente entiendes el idioma.",
+      "ejemplos": [
+        {
+          "nahuatl": "Nolti, tlasohkamati",
+          "espanol": "Hola, gracias (súper amigable)"
+        },
+        {
+          "nahuatl": "Tonalti, tlasohkamati",
+          "espanol": "Buenos días, gracias (elegante y educado)"
+        }
+      ]
+    },
+    {
+      "titulo": "🏔️ El poder del agradecimiento en la Sierra",
+      "contenido": "En los pueblos de la Sierra Negra, 'tlasohkamati' se escucha todo el día. Es como música que conecta a las personas. Los niños lo aprenden muy pequeños porque sus abuelos saben que una persona agradecida es una persona feliz. ¡Ahora tú también tienes este poder!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: El arte de agradecer",
+    "instrucciones": "¡Vamos a ver si ya dominas el arte de agradecer en náhuatl!",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'gracias' en náhuatl?",
+        "opciones": ["Tlasohkamati", "Nolti", "Tonalti", "Se tlapalewili"],
+        "respuestaCorrecta": "Tlasohkamati"
+      },
+      {
+        "pregunta": "¿Para qué usas 'tlasohkamati'?",
+        "opciones": ["Para agradecer", "Para saludar", "Para despedirse", "Para pedir algo"],
+        "respuestaCorrecta": "Para agradecer"
+      }
+    ]
+  }
+}

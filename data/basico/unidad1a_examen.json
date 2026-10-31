@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Solo 'Hola'",
+  "descripcion": "Demuestra que dominas el saludo básico en náhuatl",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hola' en náhuatl?",
+      "opciones": ["Nolti", "Tlasohkamati", "Tonalti", "Tiotlakilti"],
+      "respuestaCorrecta": "Nolti",
+      "explicacion": "'Nolti' es el saludo universal en náhuatl que puedes usar en cualquier momento del día."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuándo puedes usar la palabra 'nolti'?",
+      "opciones": ["En cualquier momento", "Solo en la mañana", "Solo en la tarde", "Solo en la noche"],
+      "respuestaCorrecta": "En cualquier momento",
+      "explicacion": "'Nolti' es tan versátil que lo puedes usar a cualquier hora del día."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "Si quieres saludar a un amigo, ¿qué palabra usas?",
+      "opciones": ["Nolti", "Gracias", "Por favor", "Adiós"],
+      "respuestaCorrecta": "Nolti",
+      "explicacion": "'Nolti' es la palabra perfecta para saludar a cualquier persona."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 10,
+    "insignia": "Primer Saludo",
+    "mensaje": "¡Felicidades! Ya puedes saludar en náhuatl. 👋"
+  }
+}

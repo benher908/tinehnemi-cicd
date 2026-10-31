@@ -1,0 +1,85 @@
+{
+  "categoria": "Tiempos verbales",
+  "palabras": [
+    {
+      "nahuatl": "tetahmej",
+      "espanol": "ancestros",
+      "audio": "tetahmej.mp3"
+    },
+    {
+      "nahuatl": "neh nitlahkwiloa",
+      "espanol": "yo escribo (presente)",
+      "audio": "neh_nitlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "teh titlahkwiloa",
+      "espanol": "tú escribes (presente)",
+      "audio": "teh_titlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "yehwa tlahkwiloa",
+      "espanol": "él/ella escribe (presente)",
+      "audio": "yehwa_tlahkwiloa.mp3"
+    },
+    {
+      "nahuatl": "neh nitlahkwiloke",
+      "espanol": "yo escribí (pasado)",
+      "audio": "neh_nitlahkwiloke.mp3"
+    },
+    {
+      "nahuatl": "teh titlahkwiloke",
+      "espanol": "tú escribiste (pasado)",
+      "audio": "teh_titlahkwiloke.mp3"
+    },
+    {
+      "nahuatl": "yehwa tlahkwiloke",
+      "espanol": "él/ella escribió (pasado)",
+      "audio": "yehwa_tlahkwiloke.mp3"
+    },
+    {
+      "nahuatl": "nias ni tekititin",
+      "espanol": "hoy iré a trabajar (futuro)",
+      "audio": "nias_ni_tekititin.mp3"
+    },
+    {
+      "nahuatl": "inon mostla nias",
+      "espanol": "mañana me voy (futuro)",
+      "audio": "inon_mostla_nias.mp3"
+    },
+    {
+      "nahuatl": "nitekitiskia",
+      "espanol": "yo trabajaría (condicional)",
+      "audio": "nitekitiskia.mp3"
+    },
+    {
+      "nahuatl": "titekitiskia",
+      "espanol": "tú trabajarías (condicional)",
+      "audio": "titekitiskia.mp3"
+    },
+    {
+      "nahuatl": "tekitiskia",
+      "espanol": "él/ella trabajaría (condicional)",
+      "audio": "tekitiskia.mp3"
+    },
+    {
+      "nahuatl": "nitlawaskia",
+      "espanol": "yo comería (condicional)",
+      "audio": "nitlawaskia.mp3"
+    },
+    {
+      "nahuatl": "titlawaskia",
+      "espanol": "tú comerías (condicional)",
+      "audio": "titlawaskia.mp3"
+    },
+    {
+      "nahuatl": "tlamachtiskia",
+      "espanol": "él/ella estudiaría (condicional)",
+      "audio": "tlamachtiskia.mp3"
+    },
+    {
+      "nahuatl": "ticualtiskia",
+      "espanol": "nosotros cocinaríamos (condicional)",
+      "audio": "ticualtiskia.mp3"
+    }
+  ]
+}

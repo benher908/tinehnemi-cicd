@@ -1,0 +1,33 @@
+{
+  "titulo": "Examen: Solo 'Gracias'",
+  "descripcion": "Demuestra que sabes agradecer en náhuatl",
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'gracias' en náhuatl?",
+      "opciones": ["Tlasohkamati", "Nolti", "Se tlapalewili", "Tonalti"],
+      "respuestaCorrecta": "Tlasohkamati",
+      "explicacion": "'Tlasohkamati' es la palabra mágica para agradecer en náhuatl, muy importante en la cultura."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "Tu amigo te presta un lápiz. ¿Qué le dices?",
+      "opciones": ["Tlasohkamati", "Nolti", "Se tlapalewili", "Tiotlakilti"],
+      "respuestaCorrecta": "Tlasohkamati",
+      "explicacion": "Cuando alguien te ayuda o te da algo, siempre debes agradecer con 'tlasohkamati'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cuándo usas 'tlasohkamati'?",
+      "opciones": ["Para agradecer", "Para saludar", "Para pedir algo", "Para despedirse"],
+      "respuestaCorrecta": "Para agradecer",
+      "explicacion": "'Tlasohkamati' se usa exclusivamente para mostrar gratitud y agradecimiento."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 10,
+    "insignia": "Agradecido",
+    "mensaje": "¡Excelente! Ahora eres muy educado en náhuatl. 🙏"
+  }
+}

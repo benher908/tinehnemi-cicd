@@ -1,0 +1,64 @@
+{
+  "configuracion": {
+    "nombre": "Curva de Aprendizaje Suave",
+    "descripcion": "Configuración optimizada para un aprendizaje gradual y sin estrés",
+    "version": "2.0"
+  },
+  "parametros": {
+    "unidades_por_nivel": {
+      "basico": 18,
+      "intermedio": 12,
+      "avanzado": 8
+    },
+    "contenido_por_unidad": {
+      "palabras_nuevas_max": 3,
+      "conceptos_nuevos_max": 1,
+      "ejercicios_practica": 3,
+      "tiempo_estimado_minutos": 5
+    },
+    "progresion": {
+      "repeticion_espaciada": true,
+      "refuerzo_automatico": true,
+      "micro_lecciones": true,
+      "contexto_cultural": true
+    },
+    "adaptacion_regional": {
+      "sierra_negra_puebla": {
+        "vocabulario_local": true,
+        "plantas_regionales": true,
+        "geografia_local": true,
+        "tradiciones_locales": true
+      }
+    }
+  },
+  "metodologia": {
+    "principios": [
+      "Una palabra nueva por unidad cuando sea posible",
+      "Conexión inmediata con la vida diaria",
+      "Refuerzo constante de palabras anteriores",
+      "Contexto cultural auténtico",
+      "Progresión muy gradual"
+    ],
+    "tecnicas": [
+      "Micro-aprendizaje (5 minutos por unidad)",
+      "Repetición espaciada automática",
+      "Gamificación suave",
+      "Conexión emocional con el contenido",
+      "Práctica contextualizada"
+    ]
+  },
+  "evaluacion": {
+    "criterios_aprobacion": {
+      "puntuacion_minima": 70,
+      "intentos_maximos": 3,
+      "tiempo_entre_intentos_horas": 2
+    },
+    "tipos_evaluacion": [
+      "Reconocimiento auditivo",
+      "Selección múltiple",
+      "Completar frases",
+      "Situaciones contextuales",
+      "Construcción de diálogos simples"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categoria": "Elementos naturales y cosmogonía",
+  "palabras": [
+    {
+      "nahuatl": "Tonaltsintle",
+      "espanol": "Sol",
+      "audio": "tonatiuh.mp3"
+    },
+    {
+      "nahuatl": "Mejtsintle",
+      "espanol": "Luna",
+      "audio": "metztli.mp3"
+    },
+    {
+      "nahuatl": "tlayowa",
+      "espanol": "noche",
+      "audio": "tlayohua.mp3"
+    },
+    {
+      "nahuatl": "Tlawilankayotl tlatzehtzeloltik",
+      "espanol": "sagrada",
+      "audio": "tlachinolli.mp3"
+    },
+    {
+      "nahuatl": "tlaltikpak",
+      "espanol": "sobre la tierra",
+      "audio": "tlaltikpak.mp3"
+    },
+    {
+      "nahuatl": "tlakatl teotl",
+      "espanol": "hombre dios / sacerdote",
+      "audio": "tlakatl_teotl.mp3"
+    },
+    {
+      "nahuatl": "tepetl",
+      "espanol": "cerro",
+      "audio": "tepetl.mp3"
+    },
+    {
+      "nahuatl": "atl tlakatl",
+      "espanol": "hombre del agua",
+      "audio": "atl_tlakatl.mp3"
+    },
+    {
+      "nahuatl": "tlachinolli",
+      "espanol": "guerra sagrada / dualidad fuego y agua",
+      "audio": "tlachinolli.mp3"
+    }
+  ]
+}

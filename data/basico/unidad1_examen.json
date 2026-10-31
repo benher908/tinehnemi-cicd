@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "unidad": "Saludos y Cortesía",
+    "nivel": "basico",
+    "objetivos": [
+      "Dominar los saludos básicos en náhuatl",
+      "Usar expresiones de cortesía correctamente",
+      "Aplicar frases de bienestar en contexto"
+    ]
+  },
+  "preguntas": [
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'nolti'?",
+      "opciones": ["Hola", "Gracias", "Adiós"],
+      "respuestaCorrecta": "Hola",
+      "explicacion": "Nolti es el saludo básico en náhuatl de la Sierra Negra, equivalente a 'hola' en español."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'buenos días' en náhuatl?",
+      "opciones": ["tonalti", "tiotlakilti", "tlapoyowalti"],
+      "respuestaCorrecta": "tonalti",
+      "explicacion": "Tonalti se usa para saludar en la mañana, significa 'temprano' o 'buenos días'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'tlapoyowalti'?",
+      "opciones": ["Buenos días", "Buenas tardes", "Anochecer/buenas noches"],
+      "respuestaCorrecta": "Anochecer/buenas noches",
+      "explicacion": "Tlapoyowalti se refiere al anochecer y se usa como saludo nocturno."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'gracias' en náhuatl?",
+      "opciones": ["nolti", "tlasohkamati", "mostla timoita"],
+      "respuestaCorrecta": "tlasohkamati",
+      "explicacion": "Tlasohkamati es la expresión de agradecimiento en náhuatl."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'se tlapalewili'?",
+      "opciones": ["Con gusto", "Por favor", "Disculpa"],
+      "respuestaCorrecta": "Por favor",
+      "explicacion": "Se tlapalewili se usa para hacer peticiones corteses, equivale a 'por favor'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'disculpa' en náhuatl?",
+      "opciones": ["xitech tlapohpolwi", "ika pakilistli", "tlasohkamati"],
+      "respuestaCorrecta": "xitech tlapohpolwi",
+      "explicacion": "Xitech tlapohpolwi se usa para pedir disculpas o perdón."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'ika pakilistli'?",
+      "opciones": ["Por favor", "Con gusto", "Hasta mañana"],
+      "respuestaCorrecta": "Con gusto",
+      "explicacion": "Ika pakilistli expresa disposición a ayudar, significa 'con gusto'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'que tengas un buen día' en náhuatl?",
+      "opciones": ["mostla timoita", "xipiya se kwali tonali", "toteko mistiochiwaj"],
+      "respuestaCorrecta": "xipiya se kwali tonali",
+      "explicacion": "Xipiya se kwali tonali es un deseo de bienestar que significa 'que tengas un buen día'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué significa 'toteko mistiochiwaj'?",
+      "opciones": ["Que tengas un buen día", "Que Dios te bendiga", "Hasta mañana"],
+      "respuestaCorrecta": "Que Dios te bendiga",
+      "explicacion": "Toteko mistiochiwaj es una bendición que significa 'que Dios te bendiga'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'hasta mañana' en náhuatl?",
+      "opciones": ["nolti", "tlasohkamati", "mostla timoita"],
+      "respuestaCorrecta": "mostla timoita",
+      "explicacion": "Mostla timoita es la despedida que significa 'hasta mañana'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'que tengas un buen día' completo en náhuatl?",
+      "opciones": ["mostla timoita", "xipiya se kwali tonali", "toteko mistiochiwaj"],
+      "respuestaCorrecta": "xipiya se kwali tonali",
+      "explicacion": "Xipiya se kwali tonali es la frase completa para desear un buen día."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'Hola, gracias' en náhuatl?",
+      "opciones": ["nolti, tlasohkamati", "tonalti, se tlapalewili", "tlapoyowalti, ika pakilistli"],
+      "respuestaCorrecta": "nolti, tlasohkamati",
+      "explicacion": "La combinación correcta es 'nolti' (hola) y 'tlasohkamati' (gracias)."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Qué expresión significa '¡qué bien!'?",
+      "opciones": ["tlawel senka kwali", "ika pakilistli", "se tlapalewili"],
+      "respuestaCorrecta": "tlawel senka kwali",
+      "explicacion": "Tlawel senka kwali es una exclamación de alegría que significa '¡qué bien!'."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo se dice 'buenas tardes' en náhuatl?",
+      "opciones": ["tonalti", "tiotlakilti", "tlapoyowalti"],
+      "respuestaCorrecta": "tiotlakilti",
+      "explicacion": "Tiotlakilti es el saludo usado durante la tarde."
+    },
+    {
+      "tipo": "seleccion",
+      "pregunta": "¿Cómo completarías el diálogo: 'Nolti, _____' para decir 'Buenos días'?",
+      "opciones": ["tonalti", "tiotlakilti", "tlapoyowalti"],
+      "respuestaCorrecta": "tonalti",
+      "explicacion": "Tonalti es la forma correcta de decir 'buenos días' después del saludo inicial."
+    }
+  ]
+}

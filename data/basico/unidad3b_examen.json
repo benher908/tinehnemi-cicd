@@ -1,0 +1,32 @@
+{
+  "titulo": "Examen: Solo 'Lápiz'",
+  "descripcion": "Demuestra que conoces tu segundo objeto del aula",
+  "preguntas": [
+    {
+      "tipo": "opcion_multiple",
+      "pregunta": "¿Cómo se dice 'lápiz' en náhuatl?",
+      "opciones": ["Tlahkwiloli", "Amatl", "Nolti", "Tepetl"],
+      "respuestaCorrecta": "Tlahkwiloli",
+      "explicacion": "'Tlahkwiloli' significa lápiz o pluma en náhuatl."
+    },
+    {
+      "tipo": "situacion",
+      "pregunta": "¿Qué necesitas para escribir en náhuatl?",
+      "opciones": ["Amatl y tlahkwiloli", "Solo amatl", "Solo tlahkwiloli", "Nada"],
+      "respuestaCorrecta": "Amatl y tlahkwiloli",
+      "explicacion": "Para escribir necesitas papel (amatl) y lápiz (tlahkwiloli)."
+    },
+    {
+      "tipo": "completar",
+      "pregunta": "Para pedir un lápiz dices: 'Se tlapalewili, ____'",
+      "respuestaCorrecta": "tlahkwiloli",
+      "explicacion": "Pides educadamente: 'Se tlapalewili, tlahkwiloli' (Por favor, un lápiz)."
+    }
+  ],
+  "puntuacionMinima": 2,
+  "recompensa": {
+    "puntos": 15,
+    "insignia": "Escritor",
+    "mensaje": "¡Perfecto! Ya conoces las herramientas básicas para escribir. ✏️"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "titulo": "Solo 'Elote'",
+  "descripcion": "El maíz tierno, alimento sagrado de nuestros ancestros.",
+  "secciones": [
+    {
+      "titulo": "El regalo de los dioses",
+      "contenido": "Para los nahuas, el maíz era sagrado. Cuando está tierno y se puede comer, se llama:",
+      "palabras": [
+        {
+          "nahuatl": "elotl",
+          "espanol": "elote/mazorca tierna",
+          "ejemplo": "Elotl (Un elote)"
+        }
+      ]
+    },
+    {
+      "titulo": "En nuestra mesa",
+      "contenido": "En la Sierra Negra, el elote sigue siendo muy importante. Se come hervido, asado, o en atole.",
+      "ejemplos": [
+        {
+          "situacion": "En el mercado",
+          "nahuatl": "Ce elotl, se tlapalewili",
+          "espanol": "Un elote, por favor"
+        }
+      ]
+    },
+    {
+      "titulo": "Contando elotes",
+      "contenido": "Practica contando este alimento importante:",
+      "ejemplos": [
+        {
+          "nahuatl": "Ce elotl",
+          "espanol": "Un elote"
+        },
+        {
+          "nahuatl": "Ome elotl",
+          "espanol": "Dos elotes"
+        }
+      ]
+    },
+    {
+      "titulo": "Agradeciendo por el alimento",
+      "contenido": "Cuando alguien te da un elote:",
+      "dialogo": [
+        {
+          "persona": "Vendedor",
+          "texto": "(Te da un elote)",
+          "traduccion": "(Te da un elote)"
+        },
+        {
+          "persona": "Tú",
+          "texto": "Tlasohkamati",
+          "traduccion": "Gracias"
+        }
+      ]
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica: Solo Elote",
+    "instrucciones": "Aprende sobre este alimento sagrado:",
+    "ejercicios": [
+      {
+        "pregunta": "¿Cómo se dice 'elote' en náhuatl?",
+        "opciones": ["Elotl", "Ocotl", "Amatl"],
+        "respuestaCorrecta": "Elotl"
+      },
+      {
+        "pregunta": "¿Cómo pides un elote?",
+        "opciones": ["Se tlapalewili, ce elotl", "Elotl, nolti", "Tlasohkamati, elotl"],
+        "respuestaCorrecta": "Se tlapalewili, ce elotl"
+      },
+      {
+        "pregunta": "¿Por qué era importante el maíz para los nahuas?",
+        "opciones": ["Era sagrado", "Era barato", "Era fácil de cultivar"],
+        "respuestaCorrecta": "Era sagrado"
+      }
+    ]
+  }
+}

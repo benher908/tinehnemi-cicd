@@ -1,0 +1,35 @@
+{
+  "categoria": "Familia",
+  "palabras": [
+    {
+      "nahuatl": "nantli",
+      "espanol": "madre",
+      "audio": "nantli.mp3"
+    },
+    {
+      "nahuatl": "tahtli",
+      "espanol": "padre",
+      "audio": "tahtli.mp3"
+    },
+    {
+      "nahuatl": "pilli",
+      "espanol": "hijo/hija",
+      "audio": "pilli.mp3"
+    },
+    {
+      "nahuatl": "huehuetque",
+      "espanol": "abuelos",
+      "audio": "huehuetque.mp3"
+    },
+    {
+      "nahuatl": "icniuhtli",
+      "espanol": "hermano",
+      "audio": "icniuhtli.mp3"
+    },
+    {
+      "nahuatl": "teicniuh",
+      "espanol": "hermana",
+      "audio": "teicniuh.mp3"
+    }
+  ]
+}

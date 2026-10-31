@@ -1,0 +1,81 @@
+{
+  "titulo": "Mis Primeros Verbos",
+  "descripcion": "Aprenderás las acciones más básicas en náhuatl.",
+  "secciones": [
+    {
+      "titulo": "Acciones que hago todos los días",
+      "contenido": "Empezaremos con las acciones más comunes:",
+      "palabras": [
+        {
+          "nahuatl": "tlahkwiloa",
+          "espanol": "escribir",
+          "ejemplo": "Tlahkwiloa (Escribir)"
+        },
+        {
+          "nahuatl": "tlacua",
+          "espanol": "comer",
+          "ejemplo": "Tlacua (Comer)"
+        }
+      ]
+    },
+    {
+      "titulo": "Más acciones importantes",
+      "contenido": "Continuamos con otras acciones básicas:",
+      "palabras": [
+        {
+          "nahuatl": "tekiti",
+          "espanol": "trabajar",
+          "ejemplo": "Tekiti (Trabajar)"
+        },
+        {
+          "nahuatl": "tlamachti",
+          "espanol": "estudiar",
+          "ejemplo": "Tlamachti (Estudiar)"
+        }
+      ]
+    },
+    {
+      "titulo": "Hablando de acciones",
+      "contenido": "Veamos cómo usar estos verbos:",
+      "ejemplos": [
+        {
+          "nahuatl": "Tlahkwiloa ipan amatl",
+          "espanol": "Escribir en la hoja"
+        },
+        {
+          "nahuatl": "Tlacua tlācuāni",
+          "espanol": "Comer comida"
+        },
+        {
+          "nahuatl": "Tlamachti náhuatl",
+          "espanol": "Estudiar náhuatl"
+        }
+      ]
+    },
+    {
+      "titulo": "Resumen",
+      "contenido": "Ya conoces estas acciones básicas:\n\n• tlahkwiloa = escribir\n• tlacua = comer\n• tekiti = trabajar\n• tlamachti = estudiar\n\n¡Ahora puedes hablar de las cosas que haces!"
+    }
+  ],
+  "practica": {
+    "titulo": "Práctica de Verbos",
+    "instrucciones": "¿Qué acción es cada una?",
+    "ejercicios": [
+      {
+        "pregunta": "¿Qué significa 'tlahkwiloa'?",
+        "opciones": ["Escribir", "Comer", "Trabajar"],
+        "respuestaCorrecta": "Escribir"
+      },
+      {
+        "pregunta": "¿Cómo se dice 'estudiar'?",
+        "opciones": ["Tlacua", "Tlamachti", "Tekiti"],
+        "respuestaCorrecta": "Tlamachti"
+      },
+      {
+        "pregunta": "¿Qué es 'tlacua'?",
+        "opciones": ["Trabajar", "Comer", "Escribir"],
+        "respuestaCorrecta": "Comer"
+      }
+    ]
+  }
+}
