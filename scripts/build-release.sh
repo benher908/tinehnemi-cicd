@@ -26,5 +26,10 @@ if [ ! -f "${OUTPUT_DIR}/index.html" ]; then
   exit 1
 fi
 
+# GitHub Pages no soporta enrutamiento del lado del cliente de forma nativa:
+# servir index.html tambien como 404.html permite que expo-router (SPA)
+# resuelva las rutas internas tras un refresh o enlace directo.
+cp "${OUTPUT_DIR}/index.html" "${OUTPUT_DIR}/404.html"
+
 echo "==> [build-release] Entorno de liberación generado en: ${OUTPUT_DIR}"
 du -sh "${OUTPUT_DIR}"
