@@ -13,13 +13,16 @@
 set -euo pipefail
 
 OUTPUT_DIR="${1:-dist}"
-export NODE_ENV="${NODE_ENV:-production}"
 
+# NODE_ENV=production solo debe aplicar al bundle de expo export:
+# si se exporta antes del "npm ci", npm omite las devDependencies
+# (eslint, typescript, etc.), que SI se necesitan para las pruebas
+# del entorno de liberacion (test-release.sh).
 echo "==> [build-release] Instalando dependencias (npm ci)..."
 npm ci
 
 echo "==> [build-release] Generando export web estático (expo export)..."
-npx expo export --platform web --output-dir "${OUTPUT_DIR}"
+NODE_ENV=production npx expo export --platform web --output-dir "${OUTPUT_DIR}"
 
 if [ ! -f "${OUTPUT_DIR}/index.html" ]; then
   echo "ERROR: no se generó ${OUTPUT_DIR}/index.html. El build de liberación falló." >&2
